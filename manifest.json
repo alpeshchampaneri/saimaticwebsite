@@ -1,11 +1,11 @@
 {
-    "name": "saimatictech",
-    "short_name": "saimatictech",
+    "name": "Saimatic Technology LLC",
+    "short_name": "Saimatic",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0A0A0A",
+    "theme_color": "#0A0A0A",
+    "description": "Premium IT hardware solutions, enterprise technology products, and managed services.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
