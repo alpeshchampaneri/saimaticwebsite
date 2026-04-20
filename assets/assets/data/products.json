@@ -1,0 +1,269 @@
+[
+  {
+    "id": "hp-printer-all-in-one",
+    "status": "AVAILABLE",
+    "series": "HP PRINTERS",
+    "title": "HP All-in-One Printer",
+    "description": "Print, scan, and copy in a single compact device with wireless and mobile printing support.",
+    "imageAsset": "assets/images/products/hp_printer.png",
+    "spec1Label": "FUNCTIONS",
+    "spec1Value": "Print, Scan, Copy",
+    "spec2Label": "CONNECTIVITY",
+    "spec2Value": "Wi-Fi & USB",
+    "category": "Printers",
+    "highlights": [
+      {
+        "title": "All-in-One Functionality",
+        "description": "Print, scan, and copy in a single compact device."
+      },
+      {
+        "title": "Wireless & Mobile Printing",
+        "description": "Supports Wi-Fi, USB, and mobile apps like HP Smart for easy printing from phones."
+      },
+      {
+        "title": "High-Quality Output",
+        "description": "Sharp text and vibrant color printing for documents and photos."
+      },
+      {
+        "title": "Energy Efficient Design",
+        "description": "Optimized power usage with auto on/off features."
+      },
+      {
+        "title": "Reliable Performance",
+        "description": "Designed for consistent daily home and office use."
+      }
+    ],
+    "specs": [
+      {
+        "label": "FUNCTIONS",
+        "value": "Print, Scan, Copy (All-in-One)"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi, USB, Mobile Printing"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Home and office use"
+      }
+    ]
+  },
+  {
+    "id": "canon-pixma-g3010",
+    "status": "IN STOCK",
+    "series": "CANON PIXMA SERIES",
+    "title": "Canon PIXMA G3010",
+    "description": "Refillable Ink Tank All-in-One Printer designed for high-volume printing with very low cost per page.",
+    "imageAsset": "assets/images/products/canon_printer.png",
+    "spec1Label": "PRINT TECHNOLOGY",
+    "spec1Value": "Ink Tank",
+    "spec2Label": "PRINT RESOLUTION",
+    "spec2Value": "4800 × 1200 dpi",
+    "category": "Printers",
+    "price": "₹13,499",
+    "rating": "4.9",
+    "reviews": "(5.4K)",
+    "highlights": [
+      {
+        "title": "All-in-One Functionality",
+        "description": "Print, scan, and copy in a single efficient device."
+      },
+      {
+        "title": "Refillable Ink Tank System",
+        "description": "Designed for high-volume printing with very low cost per page."
+      },
+      {
+        "title": "Wireless & Mobile Printing",
+        "description": "Supports Wi-Fi, USB, and mobile apps for easy printing from smartphones."
+      },
+      {
+        "title": "High-Resolution Output",
+        "description": "Produces sharp text and vibrant images (up to 4800 × 1200 dpi)."
+      },
+      {
+        "title": "Compact & User-Friendly Design",
+        "description": "Built-in ink tanks and simple controls for easy operation."
+      }
+    ],
+    "specs": [
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Ink Tank (Refillable system)"
+      },
+      {
+        "label": "FUNCTIONS",
+        "value": "Print, Scan, Copy (All-in-One)"
+      },
+      {
+        "label": "PRINT SPEED",
+        "value": "Approx. 8.8 ipm (Black) / 5 ipm (Color)"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi, USB, Mobile Printing"
+      },
+      {
+        "label": "PRINT RESOLUTION",
+        "value": "Up to 4800 × 1200 dpi"
+      },
+      {
+        "label": "PAPER SUPPORT",
+        "value": "A4, Letter, Legal, Photo sizes"
+      },
+      {
+        "label": "INK SYSTEM",
+        "value": "GI-series ink bottles (high page yield up to thousands of pages)"
+      },
+      {
+        "label": "DISPLAY",
+        "value": "1.2” LCD screen"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Home, students, and small offices with medium to heavy printing needs"
+      }
+    ]
+  },
+  {
+    "id": "msi-laptop-gaming",
+    "status": "AVAILABLE",
+    "series": "MSI GAMING SERIES",
+    "title": "MSI High-Performance Laptop",
+    "description": "Equipped with latest processors and NVIDIA RTX graphics for heavy gaming and creative workloads.",
+    "imageAsset": "assets/images/products/msi_laptop.png",
+    "spec1Label": "PROCESSOR",
+    "spec1Value": "Intel Core i7/i9 | Ryzen 7/9",
+    "spec2Label": "GRAPHICS",
+    "spec2Value": "NVIDIA GeForce RTX",
+    "category": "Laptops",
+    "highlights": [
+      {
+        "title": "High-Performance Gaming & Creative Power",
+        "description": "Equipped with latest Intel Core / AMD Ryzen processors and NVIDIA RTX graphics for heavy workloads."
+      },
+      {
+        "title": "Advanced Cooling Technology",
+        "description": "Efficient thermal systems ensure stable performance during gaming and multitasking."
+      },
+      {
+        "title": "High-End Graphics & Display",
+        "description": "Designed for gamers and creators with powerful GPUs and immersive displays."
+      },
+      {
+        "title": "Custom Performance Software",
+        "description": "Tools like MSI Center help optimize performance, cooling, and system settings."
+      },
+      {
+        "title": "Premium Build & Design",
+        "description": "Available in gaming, business, and thin-light series with stylish designs."
+      }
+    ],
+    "specs": [
+      {
+        "label": "PROCESSOR",
+        "value": "Intel Core i7 / i9 or AMD Ryzen 7 / 9"
+      },
+      {
+        "label": "GRAPHICS",
+        "value": "NVIDIA GeForce RTX 30/40/50 series"
+      },
+      {
+        "label": "DISPLAY",
+        "value": "13” to 18” FHD / QHD / OLED panels"
+      },
+      {
+        "label": "MEMORY (RAM)",
+        "value": "Up to 64GB DDR5"
+      },
+      {
+        "label": "STORAGE",
+        "value": "Up to 2TB SSD"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi 6/7, Bluetooth, USB-C, HDMI"
+      },
+      {
+        "label": "COOLING SYSTEM",
+        "value": "Advanced multi-fan thermal design"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Gaming, video editing, 3D design, high-performance tasks"
+      }
+    ]
+  },
+  {
+    "id": "apple-macbook-silicon",
+    "status": "IN STOCK",
+    "series": "APPLE MACBOOK",
+    "title": "Apple MacBook (M-Series)",
+    "description": "Powered by Apple Silicon (M1/M2/M3) for fast and efficient performance with all-day battery life.",
+    "imageAsset": "assets/images/products/macbook.png",
+    "spec1Label": "PROCESSOR",
+    "spec1Value": "Apple Silicon M-Series",
+    "spec2Label": "BATTERY LIFE",
+    "spec2Value": "Up to 20 hours",
+    "category": "Laptops",
+    "highlights": [
+      {
+        "title": "Apple Silicon Performance",
+        "description": "Powered by M-series chips (M1, M2, M3) for fast and efficient performance."
+      },
+      {
+        "title": "Premium Build Quality",
+        "description": "Sleek aluminum design with lightweight and durable construction."
+      },
+      {
+        "title": "Retina Display Technology",
+        "description": "High-resolution displays with accurate colors and brightness."
+      },
+      {
+        "title": "Long Battery Life",
+        "description": "Optimized hardware and software deliver all-day battery performance."
+      },
+      {
+        "title": "macOS Ecosystem Integration",
+        "description": "Seamless experience with iPhone, iPad, and other Apple devices."
+      }
+    ],
+    "specs": [
+      {
+        "label": "PROCESSOR",
+        "value": "Apple M1 / M2 / M3 chip"
+      },
+      {
+        "label": "GRAPHICS",
+        "value": "Integrated Apple GPU"
+      },
+      {
+        "label": "DISPLAY",
+        "value": "13”–16” Retina / Liquid Retina display"
+      },
+      {
+        "label": "MEMORY (RAM)",
+        "value": "8GB to 32GB unified memory"
+      },
+      {
+        "label": "STORAGE",
+        "value": "256GB to 2TB SSD"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi 6, Bluetooth, Thunderbolt ports"
+      },
+      {
+        "label": "BATTERY LIFE",
+        "value": "Up to 15–20 hours"
+      },
+      {
+        "label": "OPERATING SYSTEM",
+        "value": "macOS"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Students, professionals, coding, video editing, everyday productivity"
+      }
+    ]
+  }
+]
