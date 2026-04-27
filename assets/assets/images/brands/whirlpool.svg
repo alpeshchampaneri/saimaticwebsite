@@ -1,1 +1,8 @@
-404: Not Found
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 10 180 35" width="180" height="50">
+  <g fill="white">
+    <!-- Text -->
+    <text x="90" y="32" font-family="Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Whirlpool</text>
+    <!-- Swirl representation -->
+    <path d="M40 18c20-8 60-8 80 0m-90 5c30-10 80-10 110 0" fill="none" stroke="white" stroke-width="1.5" opacity="0.8"/>
+  </g>
+</svg>
