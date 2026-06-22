@@ -1,5 +1,141 @@
 [
   {
+    "id": "saimatic-toner-207a",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic Premium Grade 207A Toner Cartridges (CMYK)",
+    "description": "High-yield, premium grade laser toner cartridge set (Black, Cyan, Magenta, Yellow) designed for superior print performance and reliability.",
+    "imageAsset": "assets/images/products/saimatic_toner.png",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "₹11,999",
+    "rating": "5.0",
+    "reviews": "(120)",
+    "highlights": [
+      {
+        "title": "Premium Grade Output",
+        "description": "Produces sharp, smudge-free text and vibrant color images for professional documents."
+      },
+      {
+        "title": "High Print Volume & Yield",
+        "description": "Optimized for high-yield printing to reduce cost per page and frequency of replacements."
+      },
+      {
+        "title": "100% Quality Tested",
+        "description": "Each cartridge undergoes rigorous quality control and testing for guaranteed compatibility and performance."
+      },
+      {
+        "title": "Latest Toner Technology",
+        "description": "Utilizes advanced chemical toner formulas for consistent, high-speed, and reliable print jobs."
+      },
+      {
+        "title": "Eco-Friendly Design",
+        "description": "Manufactured using environmentally sustainable processes and materials, reducing electronic waste."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "207A Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with various HP Color LaserJet Pro series printers"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Color Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 1,350 pages (Black) / 1,250 pages (Colors)"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Corporate offices, high-volume document printing, and professional environments"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-106a",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic Premium Grade W1106A / 106A Toner Cartridge (Black)",
+    "description": "High-yield, premium grade monochrome laser toner cartridge (Black) designed for crisp text, deep blacks, and reliable performance.",
+    "imageAsset": "assets/images/products/saimatic_toner_106a.png",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Laser Printers",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (Mono)",
+    "category": "Toners",
+    "price": "₹2,999",
+    "rating": "4.9",
+    "reviews": "(85)",
+    "highlights": [
+      {
+        "title": "Premium Grade Output",
+        "description": "Produces sharp, clean monochrome text and high-contrast blacks for professional documents."
+      },
+      {
+        "title": "High Print Volume & Yield",
+        "description": "Engineered to print up to 1,000 pages, reducing downtime and supply costs."
+      },
+      {
+        "title": "100% Quality Tested",
+        "description": "Thoroughly tested for compatibility, speed, and print longevity to match original equipment standards."
+      },
+      {
+        "title": "Latest Toner Technology",
+        "description": "Fine chemical toner powder composition ensures consistency and prevents drum/roller wear."
+      },
+      {
+        "title": "Eco-Friendly Design",
+        "description": "Manufactured with sustainability in mind, supporting recycling initiatives."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black (Monochrome)"
+      },
+      {
+        "label": "MODEL",
+        "value": "W1106A / 106A Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with HP Laser 107a, 107w, MFP 135a, MFP 135w, MFP 137fnw printers"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 1,000 pages (at 5% coverage)"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Everyday home printing, school assignments, corporate document processing"
+      }
+    ]
+  },
+  {
     "id": "hp-printer-all-in-one",
     "status": "AVAILABLE",
     "series": "HP PRINTERS",
