@@ -88692,7 +88692,7 @@ s=s==null?p:s.Vh(B.E,1.4)
 s=A.bs(A.af(b.e,3,B.aX,p,s,p,p),1)
 r=A.c0(A.b([A.bs(A.aO(A.b([A.af(b.r,p,p,p,B.C_,p,p),B.bF,A.af(b.w,p,p,p,B.BR,p,p)],n),B.y,B.n,B.m),1),A.bs(A.aO(A.b([A.af(b.x,p,p,p,B.C_,p,p),B.bF,A.af(b.y,p,p,p,B.BR,p,p)],n),B.y,B.n,B.m),1)],n),B.A,B.n,B.m)
 q=A.Z(B.d.a9(76.5),B.x.n()>>>16&255,B.x.n()>>>8&255,B.x.n()&255)
-return new A.Hy(A.ei(p,A.aO(A.b([o,A.bs(new A.bh(B.fa,A.aO(A.b([m,B.cd,l,B.cd,s,B.aU,r,B.m9,A.c0(A.b([A.bs(new A.OK(new A.aoJ(a,b),p,p,p,A.aSj(p,p,p,p,p,p,p,p,p,B.a3,p,p,B.kc,p,new A.d4(A.d7(4),B.q),new A.aI(q,1,B.w,-1),p,p,p,p),p,p,!1,p,!0,p,B.a35,p),1),B.Bk,A.bs(new A.Mz(new A.aoK(),p,p,p,A.aQk(p,p,B.f,p,p,p,0,p,p,B.b9,p,p,B.kc,p,new A.d4(A.d7(4),B.q),p,p,p,p,p),p,p,!1,p,!0,p,B.a3_,p),1)],n),B.A,B.n,B.m)],n),B.y,B.n,B.m),p),6)],n),B.cP,B.n,B.m),B.W,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.aoL(a,b),p,p,p,p,p,p),p)}}
+return new A.Hy(A.ei(p,A.aO(A.b([o,A.bs(new A.bh(B.fa,A.aO(A.b([m,B.cd,l,B.cd,s,B.aU,r,B.m9,A.c0(A.b([A.bs(new A.OK(new A.aoJ(a,b),p,p,p,A.aSj(p,p,p,p,p,p,p,p,p,B.a3,p,p,B.kc,p,new A.d4(A.d7(4),B.q),new A.aI(q,1,B.w,-1),p,p,p,p),p,p,!1,p,!0,p,B.a35,p),1),B.Bk,A.bs(new A.Mz(new A.aoK(),p,p,p,A.aQk(p,p,B.f,p,p,p,0,p,p,B.b9,p,p,B.kc,p,new A.d4(A.d7(4),B.q),p,p,p,p,p),p,p,!1,p,!0,p,B.a30,p),1)],n),B.A,B.n,B.m)],n),B.y,B.n,B.m),p),6)],n),B.cP,B.n,B.m),B.W,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,new A.aoL(a,b),p,p,p,p,p,p),p)}}
 A.aoN.prototype={
 $0(){var s=this.a,r=J.io(this.b,new A.aoM(),t.U_)
 r=A.Y(r,r.$ti.i("av.E"))
@@ -88873,7 +88873,7 @@ return A.P(A.ayK(o),$async$ld)
 case 12:case 10:return A.L(null,r)}})
 return A.M($async$ld,r)},
 MV(a){var s=this,r=null,q=t.p
-return A.aO(A.b([s.MU(a,B.l4,"PHONE CONNECTIVITY","",A.aO(A.b([A.d2(A.ei(r,B.a2V,B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a3X(s),r,r,r,r,r,r),B.aq,r,r,r,r),B.Bl,A.d2(A.ei(r,B.a2T,B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a3Y(s),r,r,r,r,r,r),B.aq,r,r,r,r),B.Bl,B.a32],q),B.y,B.n,B.m)),B.bO,A.d2(A.ei(r,s.a69(a,B.l3,"SAIMATIC TECHNOLOGY LLC","Ahmed Al Moosa Building 1,\nOffice No 103, Souq Al Kabeer,\nAbove City Exchange, Bur-Dubai,\nDubai, United Arab Emirates."),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a3Z(s),r,r,r,r,r,r),B.aq,r,r,r,r)],q),B.A,B.n,B.m)},
+return A.aO(A.b([s.MU(a,B.l4,"PHONE CONNECTIVITY","",A.aO(A.b([A.d2(A.ei(r,B.a2W,B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a3X(s),r,r,r,r,r,r),B.aq,r,r,r,r),B.Bl,A.d2(A.ei(r,B.a2U,B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a3Y(s),r,r,r,r,r,r),B.aq,r,r,r,r),B.Bl,B.a32],q),B.y,B.n,B.m)),B.bO,A.d2(A.ei(r,s.a69(a,B.l3,"SAIMATIC TECHNOLOGY LLC","Ahmed Al Moosa Building 1,\nOffice No 103, Souq Al Kabeer,\nAbove City Exchange, Bur-Dubai,\nDubai, United Arab Emirates."),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a3Z(s),r,r,r,r,r,r),B.aq,r,r,r,r)],q),B.A,B.n,B.m)},
 MU(a,b,c,d,e){var s=null,r=A.nK(b,B.f,s,s,24),q=A.af(c,s,s,s,B.a1i,s,s),p=e==null?A.af(d,s,s,s,B.BQ,s,s):e,o=t.p
 p=A.b([q,B.bF,p],o)
 return new A.fK(new A.bh(B.fa,A.c0(A.b([r,B.iP,A.bs(A.aO(p,B.y,B.n,B.m),1)],o),B.y,B.n,B.m),s),B.aG,s,s,s)},
@@ -89028,7 +89028,7 @@ $0(){return this.a.y=!0},
 $S:0}
 A.app.prototype={
 $1(a){var s=A.d7(12),r=A.Z(51,B.x.n()>>>16&255,B.x.n()>>>8&255,B.x.n()&255)
-return new A.tU(B.a2Y,B.a2S,A.b([A.wL(B.a2Z,new A.apn(a),null)],t.p),B.am,new A.d4(s,new A.aI(r,1,B.w,-1)),null)},
+return new A.tU(B.a2Z,B.a2S,A.b([A.wL(B.a3_,new A.apn(a),null)],t.p),B.am,new A.d4(s,new A.aI(r,1,B.w,-1)),null)},
 $S:557}
 A.apn.prototype={
 $0(){return A.d3(this.a,!1).eb()},
@@ -89112,11 +89112,11 @@ a6p(a){var s,r=null,q=this.nM(a),p=A.Q(a).ok.ax
 p=A.af("Spotlight Featured",r,r,r,p==null?r:p.uE(B.f,2),r,r)
 s=A.Q(a).ok.c
 return A.b5(r,A.aO(A.b([p,B.cd,A.af("Saimatic Premium Toners",r,r,r,s==null?r:s.bA(B.a3),r,r),B.be,A.fQ(new A.a96(this))],t.p),B.y,B.n,B.m),B.o,r,r,r,r,r,r,new A.ae(q,80,q,80),r,r,1/0)},
-N6(a,b){var s,r=null,q="All brands & models available",p=A.d7(16),o=A.b([new A.cG(20,B.b0,A.Z(20,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),B.j,80)],t.E),n=A.fq(A.Z(38,B.x.n()>>>16&255,B.x.n()>>>8&255,B.x.n()&255),1),m=A.d7(12),l=t.p
-m=A.bs(A.d2(A.ei(r,A.aAp(A.a8z(A.b5(r,A.aO(A.b([A.bs(A.iC("assets/images/products/saimatic_toner.png",r,r,r,B.bm),1),B.d_,B.a2X,B.bF,A.af(q,r,r,r,A.cB(r,r,A.Z(153,B.p.n()>>>16&255,B.p.n()>>>8&255,B.p.n()&255),r,r,r,r,r,r,r,r,11,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.aD,r)],l),B.A,B.bz,B.m),B.o,r,r,new A.bB(r,r,n,m,r,r,B.Q),r,r,r,B.hE,r,r,r)),"spotlight-toner-cmyk",!1),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a99(a),r,r,r,r,r,r),B.aq,r,r,r,r),1)
-n=A.fq(A.Z(38,B.x.n()>>>16&255,B.x.n()>>>8&255,B.x.n()&255),1)
+N6(a,b){var s,r=null,q=A.d7(16),p=A.b([new A.cG(20,B.b0,A.Z(20,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),B.j,80)],t.E),o=A.fq(A.Z(38,B.x.n()>>>16&255,B.x.n()>>>8&255,B.x.n()&255),1),n=A.d7(12),m=t.p
+n=A.bs(A.d2(A.ei(r,A.aAp(A.a8z(A.b5(r,A.aO(A.b([A.bs(A.iC("assets/images/products/saimatic_toner.png",r,r,r,B.bm),1),B.d_,B.a2Y,B.bF,A.af("All brands & models available",r,r,r,A.cB(r,r,A.Z(153,B.p.n()>>>16&255,B.p.n()>>>8&255,B.p.n()&255),r,r,r,r,r,r,r,r,11,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.aD,r)],m),B.A,B.bz,B.m),B.o,r,r,new A.bB(r,r,o,n,r,r,B.Q),r,r,r,B.hE,r,r,r)),"spotlight-toner-cmyk",!1),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a99(a),r,r,r,r,r,r),B.aq,r,r,r,r),1)
+o=A.fq(A.Z(38,B.x.n()>>>16&255,B.x.n()>>>8&255,B.x.n()&255),1)
 s=A.d7(12)
-return A.b5(r,A.c0(A.b([m,B.iO,A.bs(A.d2(A.ei(r,A.aAp(A.a8z(A.b5(r,A.aO(A.b([A.bs(A.iC("assets/images/products/saimatic_toner_106a.png",r,r,r,B.bm),1),B.d_,B.a30,B.bF,A.af(q,r,r,r,A.cB(r,r,A.Z(153,B.p.n()>>>16&255,B.p.n()>>>8&255,B.p.n()&255),r,r,r,r,r,r,r,r,11,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.aD,r)],l),B.A,B.bz,B.m),B.o,r,r,new A.bB(r,r,n,s,r,r,B.Q),r,r,r,B.hE,r,r,r)),"spotlight-toner-mono",!1),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a9a(a),r,r,r,r,r,r),B.aq,r,r,r,r),1)],l),B.cP,B.n,B.m),B.o,r,r,new A.bB(r,r,r,p,o,r,B.Q),r,r,r,r,r,r,r)},
+return A.b5(r,A.c0(A.b([n,B.iO,A.bs(A.d2(A.ei(r,A.aAp(A.a8z(A.b5(r,A.aO(A.b([A.bs(A.iC("assets/images/products/saimatic_npg46_gpr31_cexv29.jpg",r,r,r,B.bm),1),B.d_,B.a2T,B.bF,A.af("NPG-46 / GPR-31 / C-EXV29 CMYK Set",r,r,r,A.cB(r,r,A.Z(153,B.p.n()>>>16&255,B.p.n()>>>8&255,B.p.n()&255),r,r,r,r,r,r,r,r,11,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.aD,r)],m),B.A,B.bz,B.m),B.o,r,r,new A.bB(r,r,o,s,r,r,B.Q),r,r,r,B.hE,r,r,r)),"spotlight-toner-npg46",!1),B.W,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a9a(a),r,r,r,r,r,r),B.aq,r,r,r,r),1)],m),B.cP,B.n,B.m),B.o,r,r,new A.bB(r,r,r,q,p,r,B.Q),r,r,r,r,r,r,r)},
 N5(a){var s,r,q=null,p=A.Q(a).ok.e
 p=A.af("Latest Toner Technology",q,q,q,p==null?q:p.uD(B.a3,B.B),q,q)
 s=A.Q(a).ok.y
@@ -89342,7 +89342,7 @@ q=A.bv(a,r,q).w
 q=A.fg(r,A.b5(r,r,B.o,A.Z(o,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),r,r,r,1,r,r,r,r,r),r,r,0,0,q.a.b/2,r)
 o=A.Q(a).ok.b
 s=t.p
-return A.b5(r,A.dp(B.at,A.b([p,q,A.fL(A.aO(A.b([A.Qn(r,r,r,B.ce,r,r,!0,r,A.cN(B.OY,r,o==null?r:o.uC(B.ff),r),B.aD,r,r,B.b7,B.aY),B.bO,B.a2W,B.be,A.x5(B.j4,A.b([A.lp(new A.ajJ(a),"CONTACT US",B.d9,r)],s),B.dJ,24,24)],s),B.A,B.n,B.m),r,r)],s),B.H,B.ai),B.o,B.k,r,r,r,r,r,B.kh,r,r,1/0)}}
+return A.b5(r,A.dp(B.at,A.b([p,q,A.fL(A.aO(A.b([A.Qn(r,r,r,B.ce,r,r,!0,r,A.cN(B.OY,r,o==null?r:o.uC(B.ff),r),B.aD,r,r,B.b7,B.aY),B.bO,B.a2X,B.be,A.x5(B.j4,A.b([A.lp(new A.ajJ(a),"CONTACT US",B.d9,r)],s),B.dJ,24,24)],s),B.A,B.n,B.m),r,r)],s),B.H,B.ai),B.o,B.k,r,r,r,r,r,B.kh,r,r,1/0)}}
 A.ajI.prototype={
 $2(a,b){var s=null,r=b.b>900,q=A.aGc(0,A.b5(s,s,B.o,s,s,new A.bB(s,s,s,s,s,new A.kL(B.U,0.8,B.bu,s,0,A.b([A.Z(20,B.f.n()>>>16&255,B.f.n()>>>8&255,B.f.n()&255),B.K],t.t_),B.i2,s),B.Q),s,s,s,s,s,s,s)),p=r?B.au:B.ac,o=t.p,n=A.b([],o),m=this.a
 if(r)n.push(A.bs(m.MY(a),6))
@@ -98492,8 +98492,8 @@ B.U2=new A.ON(0,"nearestOverlay")
 B.U3=new A.ON(1,"rootOverlay")
 B.oX=new A.ae(48,48,48,48)
 B.iX=new A.n(!0,B.E,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a2U=new A.d5("No categories found.",null,B.iX,null,null,null,null,null,null)
-B.Fu=new A.hI(B.U,null,null,B.a2U,null)
+B.a2V=new A.d5("No categories found.",null,B.iX,null,null,null,null,null,null)
+B.Fu=new A.hI(B.U,null,null,B.a2V,null)
 B.U4=new A.bh(B.oX,B.Fu,null)
 B.a34=new A.d5("No brands found.",null,B.iX,null,null,null,null,null,null)
 B.Fx=new A.hI(B.U,null,null,B.a34,null)
@@ -99251,20 +99251,20 @@ B.a0e=new A.n(!0,B.f,null,null,null,null,10,B.B,null,2,null,null,null,null,null,
 B.a2R=new A.d5("DUBAI TECH GATEWAY",null,B.a0e,null,null,null,null,null,null)
 B.a1f=new A.n(!0,B.E,null,null,null,null,null,null,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a2S=new A.d5("We have received your message and will contact you as soon as possible.",null,B.a1f,null,null,null,null,null,null)
-B.BU=new A.n(!0,B.f,null,null,null,null,13,null,null,null,null,null,1.5,null,null,null,null,B.fV,B.f,null,null,null,null,null,null,null)
-B.a2T=new A.d5("EMAIL: info@saimatictechnology.com",null,B.BU,null,null,null,null,null,null)
-B.a2V=new A.d5("MOB NO.: +971-50-4390490 (Available on Whatsapp)",null,B.BU,null,null,null,null,null,null)
-B.a_y=new A.n(!0,B.E,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a2W=new A.d5("Our Dubai-based experts are standing by to orchestrate your total technology strategy.",null,B.a_y,B.aD,null,null,null,null,null)
 B.BV=new A.n(!0,B.p,null,null,null,null,13,B.B,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a2X=new A.d5("Saimatic Color Toners",null,B.BV,B.aD,null,null,null,null,null)
+B.a2T=new A.d5("Canon imageRUNNER Toners",null,B.BV,B.aD,null,null,null,null,null)
+B.BU=new A.n(!0,B.f,null,null,null,null,13,null,null,null,null,null,1.5,null,null,null,null,B.fV,B.f,null,null,null,null,null,null,null)
+B.a2U=new A.d5("EMAIL: info@saimatictechnology.com",null,B.BU,null,null,null,null,null,null)
+B.a2W=new A.d5("MOB NO.: +971-50-4390490 (Available on Whatsapp)",null,B.BU,null,null,null,null,null,null)
+B.a_y=new A.n(!0,B.E,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.a2X=new A.d5("Our Dubai-based experts are standing by to orchestrate your total technology strategy.",null,B.a_y,B.aD,null,null,null,null,null)
+B.a2Y=new A.d5("Saimatic Color Toners",null,B.BV,B.aD,null,null,null,null,null)
 B.a0B=new A.n(!0,B.p,null,null,null,null,null,B.B,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a2Y=new A.d5("Thanks for contacting us!",null,B.a0B,null,null,null,null,null,null)
+B.a2Z=new A.d5("Thanks for contacting us!",null,B.a0B,null,null,null,null,null,null)
 B.a_7=new A.n(!0,B.f,null,null,null,null,null,B.B,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a2Z=new A.d5("OK",null,B.a_7,null,null,null,null,null,null)
+B.a3_=new A.d5("OK",null,B.a_7,null,null,null,null,null,null)
 B.BS=new A.n(!0,null,null,null,null,null,10,B.B,null,1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a3_=new A.d5("ENQUIRY",null,B.BS,null,null,null,null,null,null)
-B.a30=new A.d5("Saimatic Mono Toners",null,B.BV,B.aD,null,null,null,null,null)
+B.a30=new A.d5("ENQUIRY",null,B.BS,null,null,null,null,null,null)
 B.a1J=new A.n(!0,B.f,null,null,null,null,18,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a31=new A.d5("\u2022 ",null,B.a1J,null,null,null,null,null,null)
 B.a32=new A.d5("AVAILABILITY: 24/7 Global Support",null,B.BQ,null,null,null,null,null,null)
