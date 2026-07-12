@@ -1,5 +1,641 @@
 [
   {
+    "id": "hp-toner-415a",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 415A LaserJet Toner Cartridges (CMYK Set)",
+    "description": "Original HP LaserJet 415A toner cartridges (W2030A Black, W2031A Cyan, W2032A Yellow, W2033A Magenta) with JetIntelligence. Delivers vibrant color documentation and sharp text optimized for HP LaserJet Pro printers.",
+    "imageAsset": "assets/images/products/hp_415a_set.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro M454 / MFP M479",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~2,400 | CMY: ~2,100 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(18)",
+    "highlights": [
+      {
+        "title": "Latest JetIntelligence",
+        "description": "Optimized performance and page maximizer technology."
+      },
+      {
+        "title": "Vibrant Professional Prints",
+        "description": "High-quality color prints for marketing materials and documents."
+      },
+      {
+        "title": "Anti-Fraud Technology",
+        "description": "Helps manage costs and ensure genuine HP quality."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODELS",
+        "value": "W2030A, W2031A, W2032A, W2033A"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro M454 series, HP Color LaserJet Pro MFP M479 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-207a-magenta",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 207A Magenta LaserJet Toner Cartridge (W2213A)",
+    "description": "Original HP 207A Magenta toner cartridge (W2213A) with JetIntelligence. Delivers professional-grade color prints with high-speed performance for compatible HP Color LaserJet Pro printers.",
+    "imageAsset": "assets/images/products/hp_207a_magenta.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Color LaserJet Pro M255 / M282 / M283",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Magenta: ~1,250 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(12)",
+    "highlights": [
+      {
+        "title": "JetIntelligence Technology",
+        "description": "Optimizes prints, tracks toner levels, and ensures HP quality."
+      },
+      {
+        "title": "True Magenta Gamut",
+        "description": "Crisp and vivid magenta hues for creative business outputs."
+      },
+      {
+        "title": "Reliable Durability",
+        "description": "Consistently reliable print quality across the cartridge life."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Magenta"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2213A (HP 207A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP Color LaserJet Pro M255dw, M255nw, MFP M282nw, MFP M283fdn, MFP M283fdw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-151a",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 151A Black LaserJet Toner Cartridge (W1510A)",
+    "description": "Original HP 151A Black toner cartridge (W1510A) with JetIntelligence. Provides legendary HP print quality, sharp black text, and high performance for professional monochrome printing.",
+    "imageAsset": "assets/images/products/hp_151a_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro 4003 / 4103",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~3,050 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(25)",
+    "highlights": [
+      {
+        "title": "Precision Black Toner",
+        "description": "Designed for rich black text and sharp monochrome graphics."
+      },
+      {
+        "title": "Efficient JetIntelligence",
+        "description": "High-speed printing and smart tracking features."
+      },
+      {
+        "title": "Genuine Security",
+        "description": "Anti-fraud technology protects against counterfeit cartridges."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Black"
+      },
+      {
+        "label": "MODEL",
+        "value": "W1510A (HP 151A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro 4003dn, 4003dw, MFP 4103dn, MFP 4103dw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "canon-toner-cexv54",
+    "status": "IN STOCK",
+    "series": "CANON TONER SERIES",
+    "title": "Canon C-EXV 54 Toner Cartridge Set (CMY)",
+    "description": "Genuine Canon C-EXV 54 toner cartridges (Cyan, Magenta, Yellow) engineered for imageRUNNER color copiers. Delivers exceptional page yield, vibrant color reproduction, and smudge-resistant text.",
+    "imageAsset": "assets/images/products/canon_cexv54_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon imageRUNNER C3025/C3125/C3226",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Color: ~8,500 pages each",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(14)",
+    "highlights": [
+      {
+        "title": "High Copy Volume",
+        "description": "Specifically calibrated for office multifunction printers."
+      },
+      {
+        "title": "Superior Color Accuracy",
+        "description": "Consistent, vibrant graphics for business documentation."
+      },
+      {
+        "title": "Reliable Output",
+        "description": "Prevents streaks and maintains print drum health."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Cyan, Magenta, Yellow (CMY Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "C-EXV 54 (1395C002AA, 1396C002AA, 1397C002AA)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER C3025, C3025i, C3125i, C3226, C3226i"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "canon-toner-cexv49",
+    "status": "IN STOCK",
+    "series": "CANON TONER SERIES",
+    "title": "Canon C-EXV 49 Toner Cartridge Set (CMYK)",
+    "description": "Genuine Canon C-EXV 49 toner cartridges (Black, Cyan, Magenta, Yellow) for imageRUNNER ADVANCE copiers. Formulated for high-yield productivity, professional-grade prints, and smooth workflow compatibility.",
+    "imageAsset": "assets/images/products/canon_cexv49_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon imageRUNNER ADVANCE",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~36,000 | CMY: ~19,000 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(33)",
+    "highlights": [
+      {
+        "title": "Ultra High-Yield",
+        "description": "Designed for demanding high-volume enterprise printing."
+      },
+      {
+        "title": "Superb Gradient Grayscale",
+        "description": "Enhanced toner distribution for deep blacks and smooth shades."
+      },
+      {
+        "title": "Clean Environment Safe",
+        "description": "Low dust emissions and simple replacement."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "C-EXV 49 (8524B002AA, 8525B002AA, 8526B002AA, 8527B002AA)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER ADVANCE C3320i, C3325i, C3330i, C3520i, C3525i, C3530i, C3720i, C3725i, C3730i, C3822i, C3826i, C3830i, C3835i"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "canon-toner-cexv64",
+    "status": "IN STOCK",
+    "series": "CANON TONER SERIES",
+    "title": "Canon C-EXV 64 Toner Cartridge Set (CMYK)",
+    "description": "Original Canon C-EXV 64 toner cartridges set (Black, Cyan, Magenta, Yellow) designed for next-generation imageRUNNER ADVANCE DX copiers. Optimized for peak performance and vivid corporate print outputs.",
+    "imageAsset": "assets/images/products/canon_cexv64_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon imageRUNNER DX C3900 series",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~38,000 | CMY: ~25,500 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(8)",
+    "highlights": [
+      {
+        "title": "Next-Gen DX Formulation",
+        "description": "Fine particle size toner for rich details."
+      },
+      {
+        "title": "Extremely Long Life",
+        "description": "Reduces cartridge change intervals and maintenance downtime."
+      },
+      {
+        "title": "Crisp Output",
+        "description": "Resistant to moisture and smudges for professional documentation."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "C-EXV 64 Toner Series"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER ADVANCE DX C3922i, C3926i, C3930i, C3935i"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "sharp-toner-mx61ft",
+    "status": "IN STOCK",
+    "series": "SHARP TONER SERIES",
+    "title": "Sharp MX-61FT Toner Cartridges (CMY Set)",
+    "description": "Premium Sharp MX-61FT Cyan, Yellow, and Magenta toner cartridges. Engineered for high-speed color copiers, producing vibrant color pages and professional document output.",
+    "imageAsset": "assets/images/products/sharp_mx61ft_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Sharp MX-3050 / 3550 / 4050 / 5050 / 6050",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Color: ~24,000 pages each",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(15)",
+    "highlights": [
+      {
+        "title": "High Speed Fusion",
+        "description": "Calibrated for high-velocity office copiers."
+      },
+      {
+        "title": "Vivid Image Quality",
+        "description": "Accurate cyan, yellow, and magenta color balance."
+      },
+      {
+        "title": "Eco-Friendly Cartridge",
+        "description": "Engineered to promote lower melting points and power efficiency."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Cyan (MX-61FT-CB), Yellow (MX-61FT-YB), Magenta (MX-61FT-MB)"
+      },
+      {
+        "label": "MODEL",
+        "value": "MX-61FT Series"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Sharp MX-3050N, MX-3550N, MX-4050N, MX-3070N, MX-3570N, MX-4070N, MX-5070N, MX-6070N"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "sharp-toner-bpft70",
+    "status": "IN STOCK",
+    "series": "SHARP TONER SERIES",
+    "title": "Sharp BP-FT70 Toner Cartridge Set (CMY)",
+    "description": "Genuine Sharp BP-FT70 color toner cartridges set (Yellow, Magenta, Cyan). Formulated for professional corporate environments needing high-density coloring and crisp detailing.",
+    "imageAsset": "assets/images/products/sharp_bpft70_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Sharp BP-70C31 / BP-70C36 / BP-70C45",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Color: ~24,000 pages each",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(9)",
+    "highlights": [
+      {
+        "title": "Consistent Density",
+        "description": "Ensures uniform color reproduction across large runs."
+      },
+      {
+        "title": "Smart Chip Enabled",
+        "description": "Provides accurate toner consumption metrics to the copier."
+      },
+      {
+        "title": "Low-Maintenance Operation",
+        "description": "Minimizes cleaner-blade wear and waste toner."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Yellow (BP-FT70YB), Magenta (BP-FT70MB), Cyan (BP-FT70CB)"
+      },
+      {
+        "label": "MODEL",
+        "value": "BP-FT70 Series"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Sharp BP-50C26, BP-50C31, BP-50C36, BP-50C45, BP-70C31, BP-70C36, BP-70C45"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "sharp-toner-dx25ft-bpft20",
+    "status": "IN STOCK",
+    "series": "SHARP TONER SERIES",
+    "title": "Sharp DX-25FT / BP-FT20 Toner Cartridges",
+    "description": "Premium Sharp copiers toner collection including DX-25FT (Black/Cyan) and BP-FT20 (Magenta/Yellow/Cyan). Formulated for reliability, clear document scans, and rich coloring.",
+    "imageAsset": "assets/images/products/sharp_dx25ft_bpft20_toners.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Sharp DX-2500N / BP-20C20",
+    "spec2Label": "PRINT TYPE",
+    "spec2Value": "Multicolor (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.7",
+    "reviews": "(11)",
+    "highlights": [
+      {
+        "title": "Hybrid Support",
+        "description": "Compatible across compact workspace multifunction printers."
+      },
+      {
+        "title": "Sharp Text Lines",
+        "description": "Delivers distinct outlines for fonts and vector lines."
+      },
+      {
+        "title": "Durable Packing",
+        "description": "Engineered to resist environmental moisture changes."
+      }
+    ],
+    "specs": [
+      {
+        "label": "MODELS",
+        "value": "DX-25FT-BA, DX-25FT-CA, BP-FT20MB, BP-FT20YB, BP-FT20CB"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Sharp DX-2000U, DX-2500N, BP-20C20, BP-20C25"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "sharp-toner-mx235ft-bpft200",
+    "status": "IN STOCK",
+    "series": "SHARP TONER SERIES",
+    "title": "Sharp MX-235FT / BP-FT200 / BP-FT705 Toners",
+    "description": "High-performance Sharp copier toner cartridges including the legendary MX-235FT (Black), BP-FT200, and BP-FT705. Engineered to produce rich, bold black text and high page yields.",
+    "imageAsset": "assets/images/products/sharp_mx235ft_bpft200_bpft705.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Sharp AR-5618 / BP-20M22 / BP-70M",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~19,000 pages (MX-235FT)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(19)",
+    "highlights": [
+      {
+        "title": "Corporate Mono Standard",
+        "description": "Perfect for office document copying and text reports."
+      },
+      {
+        "title": "High Duty Cycle",
+        "description": "Engineered to support rapid copy speeds without smearing."
+      },
+      {
+        "title": "OEM Grade",
+        "description": "Matches the original manufacturing specifications."
+      }
+    ],
+    "specs": [
+      {
+        "label": "MODELS",
+        "value": "MX-235FT (Black), BP-FT200, BP-FT705"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Sharp AR-5618, AR-5620, AR-5623, BP-20M22, BP-20M24, BP-70M75"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "asus-tuf-rtx5090",
+    "status": "AVAILABLE",
+    "series": "ASUS TUF GAMING",
+    "title": "ASUS TUF Gaming GeForce RTX 5090 OC Edition 32GB",
+    "description": "Flagship NVIDIA GeForce RTX 5090 graphics card custom-designed by ASUS TUF. Armed with 32GB GDDR7 memory, DLSS 4, ultra-advanced ray tracing cores, and military-grade durability. Designed for extreme 4K/8K gaming and high-performance AI workloads.",
+    "imageAsset": "assets/images/products/asus_tuf_rtx5090.jpeg",
+    "spec1Label": "MEMORY",
+    "spec1Value": "32GB GDDR7",
+    "spec2Label": "COOLING",
+    "spec2Value": "Triple-Fan Axial-tech",
+    "category": "Gaming",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(186)",
+    "highlights": [
+      {
+        "title": "Next-Gen NVIDIA Blackwell",
+        "description": "Built on Blackwell architecture with DLSS 4 and high-performance AI tensor cores."
+      },
+      {
+        "title": "Military-Grade Capacitors",
+        "description": "Rated for 20,000 hours at 105C, making the GPU power delivery ultra-durable."
+      },
+      {
+        "title": "Axial-tech Fans",
+        "description": "Ventilator system scaled up for 21% more airflow, optimizing performance thermal efficiency."
+      }
+    ],
+    "specs": [
+      {
+        "label": "GRAPHICS ENGINE",
+        "value": "NVIDIA GeForce RTX 5090"
+      },
+      {
+        "label": "VIDEO MEMORY",
+        "value": "32GB GDDR7"
+      },
+      {
+        "label": "ENGINE CLOCK",
+        "value": "OC Mode - Boost Clock: TBA"
+      },
+      {
+        "label": "CUDA CORES",
+        "value": "TBA (Blackwell Flagship Core)"
+      },
+      {
+        "label": "MEMORY INTERFACE",
+        "value": "512-bit"
+      },
+      {
+        "label": "RESOLUTION",
+        "value": "Digital Max Resolution 7680 x 4320"
+      },
+      {
+        "label": "INTERFACE",
+        "value": "Yes x 2 (Native HDMI 2.1a), Yes x 3 (Native DisplayPort 2.1)"
+      }
+    ]
+  },
+  {
+    "id": "asus-rog-astral-rtx5090",
+    "status": "AVAILABLE",
+    "series": "ASUS ROG ASTRAL",
+    "title": "ASUS ROG Astral GeForce RTX 5090 OC Edition 32GB",
+    "description": "The absolute peak of graphics engineering. ASUS ROG Astral edition NVIDIA GeForce RTX 5090 with 32GB GDDR7, DLSS 4, and a quad-fan cooling solution. Designed for record-breaking overclocking and premium liquid-smooth 8K gaming.",
+    "imageAsset": "assets/images/products/asus_rog_astral_rtx5090.jpeg",
+    "spec1Label": "MEMORY",
+    "spec1Value": "32GB GDDR7",
+    "spec2Label": "COOLING",
+    "spec2Value": "Quad-Fan Force System",
+    "category": "Gaming",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(214)",
+    "highlights": [
+      {
+        "title": "Flagship ROG Design",
+        "description": "Aggressive gamer design with customizable Aura Sync RGB and premium metal construction."
+      },
+      {
+        "title": "Quad-Fan Force cooling",
+        "description": "Four synchronized fans for advanced heat extraction under heavy overclocking."
+      },
+      {
+        "title": "Aura Sync Support",
+        "description": "Intelligent RGB synchronization across other ROG desktop components."
+      }
+    ],
+    "specs": [
+      {
+        "label": "GRAPHICS ENGINE",
+        "value": "NVIDIA GeForce RTX 5090"
+      },
+      {
+        "label": "VIDEO MEMORY",
+        "value": "32GB GDDR7"
+      },
+      {
+        "label": "COOLING SOLUTION",
+        "value": "ROG Astral Quad-Fan Heatpipes"
+      },
+      {
+        "label": "POWER CONNECTORS",
+        "value": "16-pin 12V-2x6 Power Cable support"
+      },
+      {
+        "label": "RECOMMENDED PSU",
+        "value": "1000W or higher"
+      }
+    ]
+  },
+  {
+    "id": "asus-rog-astral-white-rtx5090",
+    "status": "AVAILABLE",
+    "series": "ASUS ROG ASTRAL",
+    "title": "ASUS ROG Astral White GeForce RTX 5090 OC Edition 32GB",
+    "description": "Stunning all-white flagship GPU. ASUS ROG Astral White edition NVIDIA GeForce RTX 5090. Features 32GB GDDR7 memory, PCIe 5.0 support, and Aura Sync custom lighting. Ideal for high-end all-white gaming stations and AI workloads.",
+    "imageAsset": "assets/images/products/asus_rog_astral_white_rtx5090.jpeg",
+    "spec1Label": "MEMORY",
+    "spec1Value": "32GB GDDR7",
+    "spec2Label": "INTERFACE",
+    "spec2Value": "PCIe 5.0 Support",
+    "category": "Gaming",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(152)",
+    "highlights": [
+      {
+        "title": "Stunning All-White Edition",
+        "description": "Premium white shroud, backplate, and structural frames for unique theme configurations."
+      },
+      {
+        "title": "PCIe 5.0 High Speed Interface",
+        "description": "Maximized bandwidth connection with modern CPU socket environments."
+      },
+      {
+        "title": "Patented Vapor Chamber",
+        "description": "Custom vapor chamber directly cooling GPU core for stable performance."
+      }
+    ],
+    "specs": [
+      {
+        "label": "GRAPHICS ENGINE",
+        "value": "NVIDIA GeForce RTX 5090"
+      },
+      {
+        "label": "VIDEO MEMORY",
+        "value": "32GB GDDR7"
+      },
+      {
+        "label": "INTERFACE",
+        "value": "PCIe 5.0 x16"
+      },
+      {
+        "label": "COLOR SCHEME",
+        "value": "Full White Shroud & Metal Backplate"
+      },
+      {
+        "label": "DISPLAY SUPPORT",
+        "value": "Supports up to 4 concurrent monitors"
+      }
+    ]
+  },
+  {
     "id": "saimatic-toner-tn2500",
     "status": "IN STOCK",
     "series": "SAIMATIC TONER SERIES",
@@ -37,13 +673,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLOR", "value": "Black (Monochrome)" },
-      { "label": "MODEL", "value": "TN-2500 Premium Grade" },
-      { "label": "COMPATIBILITY", "value": "Compatible with Brother laser printers supporting TN-2500" },
-      { "label": "PRINT TECHNOLOGY", "value": "Monochrome Laser Printing" },
-      { "label": "PAGE YIELD", "value": "High Yield – approx. 1,200+ pages at 5% coverage" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Corporate offices, high-volume document printing, professional environments" }
+      {
+        "label": "CARTRIDGE COLOR",
+        "value": "Black (Monochrome)"
+      },
+      {
+        "label": "MODEL",
+        "value": "TN-2500 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Brother laser printers supporting TN-2500"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – approx. 1,200+ pages at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Corporate offices, high-volume document printing, professional environments"
+      }
     ]
   },
   {
@@ -84,13 +741,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "TN-279 Premium Grade" },
-      { "label": "COMPATIBILITY", "value": "Compatible with Brother color laser printers supporting TN-279 series" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser Printing" },
-      { "label": "PAGE YIELD", "value": "High Yield – CMYK set for extended print runs" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Color document printing, presentations, marketing materials, office use" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "TN-279 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Brother color laser printers supporting TN-279 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – CMYK set for extended print runs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Color document printing, presentations, marketing materials, office use"
+      }
     ]
   },
   {
@@ -131,13 +809,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "TN-273 Premium Grade" },
-      { "label": "COMPATIBILITY", "value": "Compatible with Brother color laser printers supporting TN-273 series" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser Printing" },
-      { "label": "PAGE YIELD", "value": "High Yield – CMYK set for extended print runs" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Business color documents, brochures, presentations, professional office printing" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "TN-273 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Brother color laser printers supporting TN-273 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – CMYK set for extended print runs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Business color documents, brochures, presentations, professional office printing"
+      }
     ]
   },
   {
@@ -178,13 +877,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLOR", "value": "Black (Monochrome)" },
-      { "label": "MODEL", "value": "725 / CRG-725 Premium Grade" },
-      { "label": "COMPATIBILITY", "value": "Compatible with Canon laser printers supporting CRG-725 / Cartridge 725" },
-      { "label": "PRINT TECHNOLOGY", "value": "Monochrome Laser Printing" },
-      { "label": "PAGE YIELD", "value": "High Yield – approx. 1,600+ pages at 5% coverage" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Home offices, small businesses, everyday document printing" }
+      {
+        "label": "CARTRIDGE COLOR",
+        "value": "Black (Monochrome)"
+      },
+      {
+        "label": "MODEL",
+        "value": "725 / CRG-725 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Canon laser printers supporting CRG-725 / Cartridge 725"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – approx. 1,600+ pages at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Home offices, small businesses, everyday document printing"
+      }
     ]
   },
   {
@@ -225,13 +945,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "067 / CRG-067 Premium Grade" },
-      { "label": "COMPATIBILITY", "value": "Compatible with Canon color laser printers supporting CRG-067 / Cartridge 067" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser Printing" },
-      { "label": "PAGE YIELD", "value": "High Yield – CMYK set for extended color print runs" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Color documents, marketing materials, professional presentations, office use" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "067 / CRG-067 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Canon color laser printers supporting CRG-067 / Cartridge 067"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – CMYK set for extended color print runs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Color documents, marketing materials, professional presentations, office use"
+      }
     ]
   },
   {
@@ -272,13 +1013,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "069 / CRG-069 Premium Grade" },
-      { "label": "COMPATIBILITY", "value": "Compatible with Canon color laser printers supporting CRG-069 / Cartridge 069" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser Printing" },
-      { "label": "PAGE YIELD", "value": "High Yield – CMYK set for extended color print runs" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Office color printing, brochures, presentations, marketing materials" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "069 / CRG-069 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Canon color laser printers supporting CRG-069 / Cartridge 069"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – CMYK set for extended color print runs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Office color printing, brochures, presentations, marketing materials"
+      }
     ]
   },
   {
@@ -319,13 +1081,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "312A / CF380A/CF381A/CF382A/CF383A" },
-      { "label": "COMPATIBILITY", "value": "Compatible with HP Color LaserJet Pro MFP M476 series" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser Printing" },
-      { "label": "PAGE YIELD", "value": "Approx. 2,400 pages (Black) / 2,700 pages (Color) at 5% coverage" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Business color documents, office presentations, marketing prints" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "312A / CF380A/CF381A/CF382A/CF383A"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with HP Color LaserJet Pro MFP M476 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 2,400 pages (Black) / 2,700 pages (Color) at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Business color documents, office presentations, marketing prints"
+      }
     ]
   },
   {
@@ -366,13 +1149,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "203A / CF540A/CF541A/CF542A/CF543A" },
-      { "label": "COMPATIBILITY", "value": "Compatible with HP Color LaserJet Pro M254, MFP M281 series" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser Printing" },
-      { "label": "PAGE YIELD", "value": "Approx. 1,400 pages (Black) / 1,300 pages (Color) at 5% coverage" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Office color documents, professional presentations, marketing prints" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "203A / CF540A/CF541A/CF542A/CF543A"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with HP Color LaserJet Pro M254, MFP M281 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 1,400 pages (Black) / 1,300 pages (Color) at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Office color documents, professional presentations, marketing prints"
+      }
     ]
   },
   {
@@ -413,13 +1217,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "207A / W2210A/W2211A/W2212A/W2213A" },
-      { "label": "COMPATIBILITY", "value": "Compatible with HP Color LaserJet Pro M255, MFP M282/M283 series" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser Printing" },
-      { "label": "PAGE YIELD", "value": "Approx. 1,350 pages (Black) / 1,250 pages (Color) at 5% coverage" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Corporate offices, high-volume color printing, professional environments" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "207A / W2210A/W2211A/W2212A/W2213A"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with HP Color LaserJet Pro M255, MFP M282/M283 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 1,350 pages (Black) / 1,250 pages (Color) at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Corporate offices, high-volume color printing, professional environments"
+      }
     ]
   },
   {
@@ -460,13 +1285,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "NPG-45 / GPR-30 / C-EXV28" },
-      { "label": "COMPATIBILITY", "value": "Canon imageRUNNER ADVANCE C5030, C5035, C5235, C5240 series" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser / Copier Toner" },
-      { "label": "PAGE YIELD", "value": "High Yield – designed for large-format office volume printing" },
-      { "label": "QUALITY ASSURANCE", "value": "Smart & Intelligent Quality Tested" },
-      { "label": "IDEAL USE", "value": "Large office copiers, corporate print centers, high-volume color reproduction" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "NPG-45 / GPR-30 / C-EXV28"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER ADVANCE C5030, C5035, C5235, C5240 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser / Copier Toner"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – designed for large-format office volume printing"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "Smart & Intelligent Quality Tested"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Large office copiers, corporate print centers, high-volume color reproduction"
+      }
     ]
   },
   {
@@ -507,13 +1353,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLORS", "value": "Black, Cyan, Magenta, Yellow (CMYK Set)" },
-      { "label": "MODEL", "value": "NPG-46 / GPR-31 / C-EXV29" },
-      { "label": "COMPATIBILITY", "value": "Canon imageRUNNER ADVANCE C5030, C5035, C5235, C5240" },
-      { "label": "PRINT TECHNOLOGY", "value": "Color Laser / Copier Toner" },
-      { "label": "PAGE YIELD", "value": "High Yield – designed for large-volume commercial copy/print jobs" },
-      { "label": "QUALITY ASSURANCE", "value": "Smart & Intelligent Quality Tested" },
-      { "label": "IDEAL USE", "value": "Corporate office copiers, commercial print centers, high-volume color reproduction" }
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "NPG-46 / GPR-31 / C-EXV29"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER ADVANCE C5030, C5035, C5235, C5240"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser / Copier Toner"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – designed for large-volume commercial copy/print jobs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "Smart & Intelligent Quality Tested"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Corporate office copiers, commercial print centers, high-volume color reproduction"
+      }
     ]
   },
   {
@@ -554,13 +1421,34 @@
       }
     ],
     "specs": [
-      { "label": "CARTRIDGE COLOR", "value": "Black (Monochrome)" },
-      { "label": "MODEL", "value": "W1106A / 106A Premium Grade" },
-      { "label": "COMPATIBILITY", "value": "HP Laser 107a, 107w, MFP 135a, MFP 135w, MFP 137fnw" },
-      { "label": "PRINT TECHNOLOGY", "value": "Monochrome Laser Printing" },
-      { "label": "PAGE YIELD", "value": "Approx. 1,000 pages at 5% coverage" },
-      { "label": "QUALITY ASSURANCE", "value": "100% Quality Tested & Certified" },
-      { "label": "IDEAL USE", "value": "Home printing, school assignments, corporate document processing" }
+      {
+        "label": "CARTRIDGE COLOR",
+        "value": "Black (Monochrome)"
+      },
+      {
+        "label": "MODEL",
+        "value": "W1106A / 106A Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP Laser 107a, 107w, MFP 135a, MFP 135w, MFP 137fnw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 1,000 pages at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Home printing, school assignments, corporate document processing"
+      }
     ]
   },
   {
@@ -598,9 +1486,18 @@
       }
     ],
     "specs": [
-      { "label": "FUNCTIONS", "value": "Print, Scan, Copy (All-in-One)" },
-      { "label": "CONNECTIVITY", "value": "Wi-Fi, USB, Mobile Printing" },
-      { "label": "IDEAL USE", "value": "Home and office use" }
+      {
+        "label": "FUNCTIONS",
+        "value": "Print, Scan, Copy (All-in-One)"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi, USB, Mobile Printing"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Home and office use"
+      }
     ]
   },
   {
@@ -641,15 +1538,42 @@
       }
     ],
     "specs": [
-      { "label": "PRINT TECHNOLOGY", "value": "Ink Tank (Refillable system)" },
-      { "label": "FUNCTIONS", "value": "Print, Scan, Copy (All-in-One)" },
-      { "label": "PRINT SPEED", "value": "Approx. 8.8 ipm (Black) / 5 ipm (Color)" },
-      { "label": "CONNECTIVITY", "value": "Wi-Fi, USB, Mobile Printing" },
-      { "label": "PRINT RESOLUTION", "value": "Up to 4800 × 1200 dpi" },
-      { "label": "PAPER SUPPORT", "value": "A4, Letter, Legal, Photo sizes" },
-      { "label": "INK SYSTEM", "value": "GI-series ink bottles (high page yield)" },
-      { "label": "DISPLAY", "value": "1.2\" LCD screen" },
-      { "label": "IDEAL USE", "value": "Home, students, small offices with medium to heavy printing needs" }
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Ink Tank (Refillable system)"
+      },
+      {
+        "label": "FUNCTIONS",
+        "value": "Print, Scan, Copy (All-in-One)"
+      },
+      {
+        "label": "PRINT SPEED",
+        "value": "Approx. 8.8 ipm (Black) / 5 ipm (Color)"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi, USB, Mobile Printing"
+      },
+      {
+        "label": "PRINT RESOLUTION",
+        "value": "Up to 4800 × 1200 dpi"
+      },
+      {
+        "label": "PAPER SUPPORT",
+        "value": "A4, Letter, Legal, Photo sizes"
+      },
+      {
+        "label": "INK SYSTEM",
+        "value": "GI-series ink bottles (high page yield)"
+      },
+      {
+        "label": "DISPLAY",
+        "value": "1.2\" LCD screen"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Home, students, small offices with medium to heavy printing needs"
+      }
     ]
   },
   {
@@ -687,14 +1611,38 @@
       }
     ],
     "specs": [
-      { "label": "PROCESSOR", "value": "Intel Core i7 / i9 or AMD Ryzen 7 / 9" },
-      { "label": "GRAPHICS", "value": "NVIDIA GeForce RTX 30/40/50 series" },
-      { "label": "DISPLAY", "value": "13\" to 18\" FHD / QHD / OLED panels" },
-      { "label": "MEMORY (RAM)", "value": "Up to 64GB DDR5" },
-      { "label": "STORAGE", "value": "Up to 2TB SSD" },
-      { "label": "CONNECTIVITY", "value": "Wi-Fi 6/7, Bluetooth, USB-C, HDMI" },
-      { "label": "COOLING SYSTEM", "value": "Advanced multi-fan thermal design" },
-      { "label": "IDEAL USE", "value": "Gaming, video editing, 3D design, high-performance tasks" }
+      {
+        "label": "PROCESSOR",
+        "value": "Intel Core i7 / i9 or AMD Ryzen 7 / 9"
+      },
+      {
+        "label": "GRAPHICS",
+        "value": "NVIDIA GeForce RTX 30/40/50 series"
+      },
+      {
+        "label": "DISPLAY",
+        "value": "13\" to 18\" FHD / QHD / OLED panels"
+      },
+      {
+        "label": "MEMORY (RAM)",
+        "value": "Up to 64GB DDR5"
+      },
+      {
+        "label": "STORAGE",
+        "value": "Up to 2TB SSD"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi 6/7, Bluetooth, USB-C, HDMI"
+      },
+      {
+        "label": "COOLING SYSTEM",
+        "value": "Advanced multi-fan thermal design"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Gaming, video editing, 3D design, high-performance tasks"
+      }
     ]
   },
   {
@@ -732,15 +1680,42 @@
       }
     ],
     "specs": [
-      { "label": "PROCESSOR", "value": "Apple M1 / M2 / M3 chip" },
-      { "label": "GRAPHICS", "value": "Integrated Apple GPU" },
-      { "label": "DISPLAY", "value": "13\"–16\" Retina / Liquid Retina display" },
-      { "label": "MEMORY (RAM)", "value": "8GB to 32GB unified memory" },
-      { "label": "STORAGE", "value": "256GB to 2TB SSD" },
-      { "label": "CONNECTIVITY", "value": "Wi-Fi 6, Bluetooth, Thunderbolt ports" },
-      { "label": "BATTERY LIFE", "value": "Up to 15–20 hours" },
-      { "label": "OPERATING SYSTEM", "value": "macOS" },
-      { "label": "IDEAL USE", "value": "Students, professionals, coding, video editing, everyday productivity" }
+      {
+        "label": "PROCESSOR",
+        "value": "Apple M1 / M2 / M3 chip"
+      },
+      {
+        "label": "GRAPHICS",
+        "value": "Integrated Apple GPU"
+      },
+      {
+        "label": "DISPLAY",
+        "value": "13\"–16\" Retina / Liquid Retina display"
+      },
+      {
+        "label": "MEMORY (RAM)",
+        "value": "8GB to 32GB unified memory"
+      },
+      {
+        "label": "STORAGE",
+        "value": "256GB to 2TB SSD"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi 6, Bluetooth, Thunderbolt ports"
+      },
+      {
+        "label": "BATTERY LIFE",
+        "value": "Up to 15–20 hours"
+      },
+      {
+        "label": "OPERATING SYSTEM",
+        "value": "macOS"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Students, professionals, coding, video editing, everyday productivity"
+      }
     ]
   }
 ]
