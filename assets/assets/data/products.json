@@ -1,127 +1,31 @@
 [
   {
-    "id": "hp-toner-415a",
+    "id": "hp-toner-59a",
     "status": "IN STOCK",
     "series": "HP TONER SERIES",
-    "title": "HP 415A LaserJet Toner Cartridges (CMYK Set)",
-    "description": "Original HP LaserJet 415A toner cartridges (W2030A Black, W2031A Cyan, W2032A Yellow, W2033A Magenta) with JetIntelligence. Delivers vibrant color documentation and sharp text optimized for HP LaserJet Pro printers.",
-    "imageAsset": "assets/images/products/hp_415a_set.jpeg",
+    "title": "HP 59A Black LaserJet Toner Cartridge (CF259A)",
+    "description": "Original HP 59A Black toner cartridge (CF259A) with JetIntelligence. Delivers professional business prints with sharp details and efficient toner coverage.",
+    "imageAsset": "assets/images/products/hp_59a_black.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "HP LaserJet Pro M454 / MFP M479",
+    "spec1Value": "HP LaserJet Pro M304 / M404 / MFP M428",
     "spec2Label": "PAGE YIELD",
-    "spec2Value": "Black: ~2,400 | CMY: ~2,100 pages",
+    "spec2Value": "Black: ~3,000 pages",
     "category": "Toners",
     "price": "Contact for Price",
     "rating": "4.9",
-    "reviews": "(18)",
+    "reviews": "(35)",
     "highlights": [
       {
-        "title": "Latest JetIntelligence",
-        "description": "Optimized performance and page maximizer technology."
+        "title": "JetIntelligence Engineering",
+        "description": "Highly durable components support fast office printing without wear."
       },
       {
-        "title": "Vibrant Professional Prints",
-        "description": "High-quality color prints for marketing materials and documents."
+        "title": "High Black Density",
+        "description": "Delivers rich, crisp black details on high-volume documents and reports."
       },
       {
-        "title": "Anti-Fraud Technology",
-        "description": "Helps manage costs and ensure genuine HP quality."
-      }
-    ],
-    "specs": [
-      {
-        "label": "COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
-      },
-      {
-        "label": "MODELS",
-        "value": "W2030A, W2031A, W2032A, W2033A"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "HP LaserJet Pro M454 series, HP Color LaserJet Pro MFP M479 series"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Laser Printing"
-      }
-    ]
-  },
-  {
-    "id": "hp-toner-207a-magenta",
-    "status": "IN STOCK",
-    "series": "HP TONER SERIES",
-    "title": "HP 207A Magenta LaserJet Toner Cartridge (W2213A)",
-    "description": "Original HP 207A Magenta toner cartridge (W2213A) with JetIntelligence. Delivers professional-grade color prints with high-speed performance for compatible HP Color LaserJet Pro printers.",
-    "imageAsset": "assets/images/products/hp_207a_magenta.jpeg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "HP Color LaserJet Pro M255 / M282 / M283",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "Magenta: ~1,250 pages",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "4.8",
-    "reviews": "(12)",
-    "highlights": [
-      {
-        "title": "JetIntelligence Technology",
-        "description": "Optimizes prints, tracks toner levels, and ensures HP quality."
-      },
-      {
-        "title": "True Magenta Gamut",
-        "description": "Crisp and vivid magenta hues for creative business outputs."
-      },
-      {
-        "title": "Reliable Durability",
-        "description": "Consistently reliable print quality across the cartridge life."
-      }
-    ],
-    "specs": [
-      {
-        "label": "COLOR",
-        "value": "Magenta"
-      },
-      {
-        "label": "MODEL",
-        "value": "W2213A (HP 207A)"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "HP Color LaserJet Pro M255dw, M255nw, MFP M282nw, MFP M283fdn, MFP M283fdw"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Laser Printing"
-      }
-    ]
-  },
-  {
-    "id": "hp-toner-151a",
-    "status": "IN STOCK",
-    "series": "HP TONER SERIES",
-    "title": "HP 151A Black LaserJet Toner Cartridge (W1510A)",
-    "description": "Original HP 151A Black toner cartridge (W1510A) with JetIntelligence. Provides legendary HP print quality, sharp black text, and high performance for professional monochrome printing.",
-    "imageAsset": "assets/images/products/hp_151a_toner.jpeg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "HP LaserJet Pro 4003 / 4103",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "Black: ~3,050 pages",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "4.9",
-    "reviews": "(25)",
-    "highlights": [
-      {
-        "title": "Precision Black Toner",
-        "description": "Designed for rich black text and sharp monochrome graphics."
-      },
-      {
-        "title": "Efficient JetIntelligence",
-        "description": "High-speed printing and smart tracking features."
-      },
-      {
-        "title": "Genuine Security",
-        "description": "Anti-fraud technology protects against counterfeit cartridges."
+        "title": "Genuine Hardware Safe",
+        "description": "Protects transfer roller and maintains long life of print components."
       }
     ],
     "specs": [
@@ -131,403 +35,63 @@
       },
       {
         "label": "MODEL",
-        "value": "W1510A (HP 151A)"
+        "value": "CF259A (HP 59A)"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "HP LaserJet Pro 4003dn, 4003dw, MFP 4103dn, MFP 4103dw"
+        "value": "HP LaserJet Pro M304a, M404n, M404dn, M404dw, MFP M428dn, MFP M428dw, MFP M428fdw"
       },
       {
         "label": "PRINT TECHNOLOGY",
-        "value": "Monochrome Laser Printing"
+        "value": "Monochrome Laser"
       }
     ]
   },
   {
-    "id": "canon-toner-cexv54",
+    "id": "hp-toner-207a-yellow",
     "status": "IN STOCK",
-    "series": "CANON TONER SERIES",
-    "title": "Canon C-EXV 54 Toner Cartridge Set (CMY)",
-    "description": "Genuine Canon C-EXV 54 toner cartridges (Cyan, Magenta, Yellow) engineered for imageRUNNER color copiers. Delivers exceptional page yield, vibrant color reproduction, and smudge-resistant text.",
-    "imageAsset": "assets/images/products/canon_cexv54_toner.jpeg",
+    "series": "HP TONER SERIES",
+    "title": "HP 207A Yellow LaserJet Toner Cartridge (W2212A)",
+    "description": "Original HP 207A Yellow toner cartridge (W2212A). Delivers crisp and vivid yellow business prints optimized for HP LaserJet Pro printers.",
+    "imageAsset": "assets/images/products/hp_207a_yellow.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Canon imageRUNNER C3025/C3125/C3226",
+    "spec1Value": "HP Color LaserJet Pro M255 / M282 / M283",
     "spec2Label": "PAGE YIELD",
-    "spec2Value": "Color: ~8,500 pages each",
+    "spec2Value": "Yellow: ~1,250 pages",
     "category": "Toners",
     "price": "Contact for Price",
-    "rating": "4.9",
+    "rating": "4.8",
     "reviews": "(14)",
     "highlights": [
       {
-        "title": "High Copy Volume",
-        "description": "Specifically calibrated for office multifunction printers."
+        "title": "Vivid Yellow Ink",
+        "description": "Maintains solid brightness for complex graphics and business templates."
       },
       {
-        "title": "Superior Color Accuracy",
-        "description": "Consistent, vibrant graphics for business documentation."
+        "title": "High Heat Fusing",
+        "description": "Fuses perfectly at high printer speeds to prevent smudging."
       },
       {
-        "title": "Reliable Output",
-        "description": "Prevents streaks and maintains print drum health."
+        "title": "Easy Toner Recycles",
+        "description": "Cartridge materials are optimized for easy return and eco-friendly recycling."
       }
     ],
     "specs": [
       {
-        "label": "COLORS",
-        "value": "Cyan, Magenta, Yellow (CMY Set)"
+        "label": "COLOR",
+        "value": "Yellow"
       },
       {
         "label": "MODEL",
-        "value": "C-EXV 54 (1395C002AA, 1396C002AA, 1397C002AA)"
+        "value": "W2212A (HP 207A)"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "Canon imageRUNNER C3025, C3025i, C3125i, C3226, C3226i"
+        "value": "HP Color LaserJet Pro M255dw, M255nw, MFP M282nw, MFP M283fdn, MFP M283fdw"
       },
       {
         "label": "PRINT TECHNOLOGY",
-        "value": "Laser Copier Toner"
-      }
-    ]
-  },
-  {
-    "id": "canon-toner-cexv49",
-    "status": "IN STOCK",
-    "series": "CANON TONER SERIES",
-    "title": "Canon C-EXV 49 Toner Cartridge Set (CMYK)",
-    "description": "Genuine Canon C-EXV 49 toner cartridges (Black, Cyan, Magenta, Yellow) for imageRUNNER ADVANCE copiers. Formulated for high-yield productivity, professional-grade prints, and smooth workflow compatibility.",
-    "imageAsset": "assets/images/products/canon_cexv49_toner.jpeg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Canon imageRUNNER ADVANCE",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "Black: ~36,000 | CMY: ~19,000 pages",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "5.0",
-    "reviews": "(33)",
-    "highlights": [
-      {
-        "title": "Ultra High-Yield",
-        "description": "Designed for demanding high-volume enterprise printing."
-      },
-      {
-        "title": "Superb Gradient Grayscale",
-        "description": "Enhanced toner distribution for deep blacks and smooth shades."
-      },
-      {
-        "title": "Clean Environment Safe",
-        "description": "Low dust emissions and simple replacement."
-      }
-    ],
-    "specs": [
-      {
-        "label": "COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
-      },
-      {
-        "label": "MODEL",
-        "value": "C-EXV 49 (8524B002AA, 8525B002AA, 8526B002AA, 8527B002AA)"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Canon imageRUNNER ADVANCE C3320i, C3325i, C3330i, C3520i, C3525i, C3530i, C3720i, C3725i, C3730i, C3822i, C3826i, C3830i, C3835i"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Laser Copier Toner"
-      }
-    ]
-  },
-  {
-    "id": "canon-toner-cexv64",
-    "status": "IN STOCK",
-    "series": "CANON TONER SERIES",
-    "title": "Canon C-EXV 64 Toner Cartridge Set (CMYK)",
-    "description": "Original Canon C-EXV 64 toner cartridges set (Black, Cyan, Magenta, Yellow) designed for next-generation imageRUNNER ADVANCE DX copiers. Optimized for peak performance and vivid corporate print outputs.",
-    "imageAsset": "assets/images/products/canon_cexv64_toner.jpeg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Canon imageRUNNER DX C3900 series",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "Black: ~38,000 | CMY: ~25,500 pages",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "4.9",
-    "reviews": "(8)",
-    "highlights": [
-      {
-        "title": "Next-Gen DX Formulation",
-        "description": "Fine particle size toner for rich details."
-      },
-      {
-        "title": "Extremely Long Life",
-        "description": "Reduces cartridge change intervals and maintenance downtime."
-      },
-      {
-        "title": "Crisp Output",
-        "description": "Resistant to moisture and smudges for professional documentation."
-      }
-    ],
-    "specs": [
-      {
-        "label": "COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
-      },
-      {
-        "label": "MODEL",
-        "value": "C-EXV 64 Toner Series"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Canon imageRUNNER ADVANCE DX C3922i, C3926i, C3930i, C3935i"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Laser Copier Toner"
-      }
-    ]
-  },
-  {
-    "id": "sharp-toner-mx61ft",
-    "status": "IN STOCK",
-    "series": "SHARP TONER SERIES",
-    "title": "Sharp MX-61FT Toner Cartridges (CMY Set)",
-    "description": "Premium Sharp MX-61FT Cyan, Yellow, and Magenta toner cartridges. Engineered for high-speed color copiers, producing vibrant color pages and professional document output.",
-    "imageAsset": "assets/images/products/sharp_mx61ft_toner.jpeg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Sharp MX-3050 / 3550 / 4050 / 5050 / 6050",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "Color: ~24,000 pages each",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "4.8",
-    "reviews": "(15)",
-    "highlights": [
-      {
-        "title": "High Speed Fusion",
-        "description": "Calibrated for high-velocity office copiers."
-      },
-      {
-        "title": "Vivid Image Quality",
-        "description": "Accurate cyan, yellow, and magenta color balance."
-      },
-      {
-        "title": "Eco-Friendly Cartridge",
-        "description": "Engineered to promote lower melting points and power efficiency."
-      }
-    ],
-    "specs": [
-      {
-        "label": "COLORS",
-        "value": "Cyan (MX-61FT-CB), Yellow (MX-61FT-YB), Magenta (MX-61FT-MB)"
-      },
-      {
-        "label": "MODEL",
-        "value": "MX-61FT Series"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Sharp MX-3050N, MX-3550N, MX-4050N, MX-3070N, MX-3570N, MX-4070N, MX-5070N, MX-6070N"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Laser Copier Toner"
-      }
-    ]
-  },
-  {
-    "id": "sharp-toner-bpft70",
-    "status": "IN STOCK",
-    "series": "SHARP TONER SERIES",
-    "title": "Sharp BP-FT70 Toner Cartridge Set (CMY)",
-    "description": "Genuine Sharp BP-FT70 color toner cartridges set (Yellow, Magenta, Cyan). Formulated for professional corporate environments needing high-density coloring and crisp detailing.",
-    "imageAsset": "assets/images/products/sharp_bpft70_toner.jpeg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Sharp BP-70C31 / BP-70C36 / BP-70C45",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "Color: ~24,000 pages each",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "4.9",
-    "reviews": "(9)",
-    "highlights": [
-      {
-        "title": "Consistent Density",
-        "description": "Ensures uniform color reproduction across large runs."
-      },
-      {
-        "title": "Smart Chip Enabled",
-        "description": "Provides accurate toner consumption metrics to the copier."
-      },
-      {
-        "title": "Low-Maintenance Operation",
-        "description": "Minimizes cleaner-blade wear and waste toner."
-      }
-    ],
-    "specs": [
-      {
-        "label": "COLORS",
-        "value": "Yellow (BP-FT70YB), Magenta (BP-FT70MB), Cyan (BP-FT70CB)"
-      },
-      {
-        "label": "MODEL",
-        "value": "BP-FT70 Series"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Sharp BP-50C26, BP-50C31, BP-50C36, BP-50C45, BP-70C31, BP-70C36, BP-70C45"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Laser Copier Toner"
-      }
-    ]
-  },
-  {
-    "id": "sharp-toner-dx25ft-bpft20",
-    "status": "IN STOCK",
-    "series": "SHARP TONER SERIES",
-    "title": "Sharp DX-25FT / BP-FT20 Toner Cartridges",
-    "description": "Premium Sharp copiers toner collection including DX-25FT (Black/Cyan) and BP-FT20 (Magenta/Yellow/Cyan). Formulated for reliability, clear document scans, and rich coloring.",
-    "imageAsset": "assets/images/products/sharp_dx25ft_bpft20_toners.jpeg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Sharp DX-2500N / BP-20C20",
-    "spec2Label": "PRINT TYPE",
-    "spec2Value": "Multicolor (CMYK)",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "4.7",
-    "reviews": "(11)",
-    "highlights": [
-      {
-        "title": "Hybrid Support",
-        "description": "Compatible across compact workspace multifunction printers."
-      },
-      {
-        "title": "Sharp Text Lines",
-        "description": "Delivers distinct outlines for fonts and vector lines."
-      },
-      {
-        "title": "Durable Packing",
-        "description": "Engineered to resist environmental moisture changes."
-      }
-    ],
-    "specs": [
-      {
-        "label": "MODELS",
-        "value": "DX-25FT-BA, DX-25FT-CA, BP-FT20MB, BP-FT20YB, BP-FT20CB"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Sharp DX-2000U, DX-2500N, BP-20C20, BP-20C25"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Laser Copier Toner"
-      }
-    ]
-  },
-  {
-    "id": "sharp-toner-mx235ft-bpft200",
-    "status": "IN STOCK",
-    "series": "SHARP TONER SERIES",
-    "title": "Sharp MX-235FT / BP-FT200 / BP-FT705 Toners",
-    "description": "High-performance Sharp copier toner cartridges including the legendary MX-235FT (Black), BP-FT200, and BP-FT705. Engineered to produce rich, bold black text and high page yields.",
-    "imageAsset": "assets/images/products/sharp_mx235ft_bpft200_bpft705.jpeg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Sharp AR-5618 / BP-20M22 / BP-70M",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "Black: ~19,000 pages (MX-235FT)",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "4.8",
-    "reviews": "(19)",
-    "highlights": [
-      {
-        "title": "Corporate Mono Standard",
-        "description": "Perfect for office document copying and text reports."
-      },
-      {
-        "title": "High Duty Cycle",
-        "description": "Engineered to support rapid copy speeds without smearing."
-      },
-      {
-        "title": "OEM Grade",
-        "description": "Matches the original manufacturing specifications."
-      }
-    ],
-    "specs": [
-      {
-        "label": "MODELS",
-        "value": "MX-235FT (Black), BP-FT200, BP-FT705"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Sharp AR-5618, AR-5620, AR-5623, BP-20M22, BP-20M24, BP-70M75"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Monochrome Laser Copier Toner"
-      }
-    ]
-  },
-  {
-    "id": "asus-tuf-rtx5090",
-    "status": "AVAILABLE",
-    "series": "ASUS TUF GAMING",
-    "title": "ASUS TUF Gaming GeForce RTX 5090 OC Edition 32GB",
-    "description": "Flagship NVIDIA GeForce RTX 5090 graphics card custom-designed by ASUS TUF. Armed with 32GB GDDR7 memory, DLSS 4, ultra-advanced ray tracing cores, and military-grade durability. Designed for extreme 4K/8K gaming and high-performance AI workloads.",
-    "imageAsset": "assets/images/products/asus_tuf_rtx5090.jpeg",
-    "spec1Label": "MEMORY",
-    "spec1Value": "32GB GDDR7",
-    "spec2Label": "COOLING",
-    "spec2Value": "Triple-Fan Axial-tech",
-    "category": "Gaming",
-    "price": "Contact for Price",
-    "rating": "5.0",
-    "reviews": "(186)",
-    "highlights": [
-      {
-        "title": "Next-Gen NVIDIA Blackwell",
-        "description": "Built on Blackwell architecture with DLSS 4 and high-performance AI tensor cores."
-      },
-      {
-        "title": "Military-Grade Capacitors",
-        "description": "Rated for 20,000 hours at 105C, making the GPU power delivery ultra-durable."
-      },
-      {
-        "title": "Axial-tech Fans",
-        "description": "Ventilator system scaled up for 21% more airflow, optimizing performance thermal efficiency."
-      }
-    ],
-    "specs": [
-      {
-        "label": "GRAPHICS ENGINE",
-        "value": "NVIDIA GeForce RTX 5090"
-      },
-      {
-        "label": "VIDEO MEMORY",
-        "value": "32GB GDDR7"
-      },
-      {
-        "label": "ENGINE CLOCK",
-        "value": "OC Mode - Boost Clock: TBA"
-      },
-      {
-        "label": "CUDA CORES",
-        "value": "TBA (Blackwell Flagship Core)"
-      },
-      {
-        "label": "MEMORY INTERFACE",
-        "value": "512-bit"
-      },
-      {
-        "label": "RESOLUTION",
-        "value": "Digital Max Resolution 7680 x 4320"
-      },
-      {
-        "label": "INTERFACE",
-        "value": "Yes x 2 (Native HDMI 2.1a), Yes x 3 (Native DisplayPort 2.1)"
+        "value": "Laser Printing"
       }
     ]
   },
@@ -584,190 +148,142 @@
     ]
   },
   {
-    "id": "asus-rog-astral-white-rtx5090",
-    "status": "AVAILABLE",
-    "series": "ASUS ROG ASTRAL",
-    "title": "ASUS ROG Astral White GeForce RTX 5090 OC Edition 32GB",
-    "description": "Stunning all-white flagship GPU. ASUS ROG Astral White edition NVIDIA GeForce RTX 5090. Features 32GB GDDR7 memory, PCIe 5.0 support, and Aura Sync custom lighting. Ideal for high-end all-white gaming stations and AI workloads.",
-    "imageAsset": "assets/images/products/asus_rog_astral_white_rtx5090.jpeg",
-    "spec1Label": "MEMORY",
-    "spec1Value": "32GB GDDR7",
-    "spec2Label": "INTERFACE",
-    "spec2Value": "PCIe 5.0 Support",
-    "category": "Gaming",
-    "price": "Contact for Price",
-    "rating": "5.0",
-    "reviews": "(152)",
-    "highlights": [
-      {
-        "title": "Stunning All-White Edition",
-        "description": "Premium white shroud, backplate, and structural frames for unique theme configurations."
-      },
-      {
-        "title": "PCIe 5.0 High Speed Interface",
-        "description": "Maximized bandwidth connection with modern CPU socket environments."
-      },
-      {
-        "title": "Patented Vapor Chamber",
-        "description": "Custom vapor chamber directly cooling GPU core for stable performance."
-      }
-    ],
-    "specs": [
-      {
-        "label": "GRAPHICS ENGINE",
-        "value": "NVIDIA GeForce RTX 5090"
-      },
-      {
-        "label": "VIDEO MEMORY",
-        "value": "32GB GDDR7"
-      },
-      {
-        "label": "INTERFACE",
-        "value": "PCIe 5.0 x16"
-      },
-      {
-        "label": "COLOR SCHEME",
-        "value": "Full White Shroud & Metal Backplate"
-      },
-      {
-        "label": "DISPLAY SUPPORT",
-        "value": "Supports up to 4 concurrent monitors"
-      }
-    ]
-  },
-  {
-    "id": "saimatic-toner-tn2500",
+    "id": "hp-toner-151a",
     "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic TN-2500 Premium Grade Toner Cartridge (Black)",
-    "description": "High-yield monochrome laser toner cartridge for Brother printers. Features the latest toner technology for crisp, deep black text and reliable high-volume performance. Compatible with Brother laser printer series supporting the TN-2500 model.",
-    "imageAsset": "assets/images/products/saimatic_tn2500_v2.jpg",
+    "series": "HP TONER SERIES",
+    "title": "HP 151A Black LaserJet Toner Cartridge (W1510A)",
+    "description": "Original HP 151A Black toner cartridge (W1510A) with JetIntelligence. Provides legendary HP print quality, sharp black text, and high performance for professional monochrome printing.",
+    "imageAsset": "assets/images/products/hp_151a_black.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Brother Laser Printers",
-    "spec2Label": "PRINT TYPE",
-    "spec2Value": "Monochrome (Black)",
+    "spec1Value": "HP LaserJet Pro 4003 / 4103",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~3,050 pages",
     "category": "Toners",
     "price": "Contact for Price",
-    "rating": "5.0",
-    "reviews": "(42)",
+    "rating": "4.9",
+    "reviews": "(25)",
     "highlights": [
       {
-        "title": "Latest Toner Technology",
-        "description": "Advanced toner formulas ensure sharp, smudge-free monochrome prints on every page."
+        "title": "Precision Black Toner",
+        "description": "Designed for rich black text and sharp monochrome graphics."
       },
       {
-        "title": "High Print Volume & Yield",
-        "description": "Optimized for high-yield printing to reduce cost per page and frequency of replacements."
+        "title": "Efficient JetIntelligence",
+        "description": "High-speed printing and smart tracking features."
       },
       {
-        "title": "100% Quality Tested",
-        "description": "Each cartridge undergoes rigorous quality control for guaranteed compatibility and performance."
-      },
-      {
-        "title": "Durable & Reliable",
-        "description": "Built for consistent daily use in office environments with minimal maintenance."
-      },
-      {
-        "title": "Superior Print Performance",
-        "description": "Delivers professional-grade black print quality for documents, reports, and high-volume office output."
+        "title": "Genuine Security",
+        "description": "Anti-fraud technology protects against counterfeit cartridges."
       }
     ],
     "specs": [
       {
-        "label": "CARTRIDGE COLOR",
-        "value": "Black (Monochrome)"
+        "label": "COLOR",
+        "value": "Black"
       },
       {
         "label": "MODEL",
-        "value": "TN-2500 Premium Grade"
+        "value": "W1510A (HP 151A)"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "Compatible with Brother laser printers supporting TN-2500"
+        "value": "HP LaserJet Pro 4003dn, 4003dw, MFP 4103dn, MFP 4103dw"
       },
       {
         "label": "PRINT TECHNOLOGY",
         "value": "Monochrome Laser Printing"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "High Yield – approx. 1,200+ pages at 5% coverage"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "100% Quality Tested & Certified"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Corporate offices, high-volume document printing, professional environments"
       }
     ]
   },
   {
-    "id": "saimatic-toner-tn279",
+    "id": "sharp-toner-mx235ft-bpft200",
     "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic TN-279 Premium Grade Toner Cartridges (CMYK Set)",
-    "description": "Complete 4-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for Brother color laser printers. Engineered with the latest toner technology, delivering vibrant color accuracy and sharp detail for professional color documents.",
-    "imageAsset": "assets/images/products/saimatic_tn279_v2.jpg",
+    "series": "SHARP TONER SERIES",
+    "title": "Sharp MX-235FT / BP-FT200 / BP-FT705 Toners",
+    "description": "High-performance Sharp copier toner cartridges including the legendary MX-235FT (Black), BP-FT200, and BP-FT705. Engineered to produce rich, bold black text and high page yields.",
+    "imageAsset": "assets/images/products/sharp_mx235ft_bpft200_bpft705.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Brother Color Printers",
+    "spec1Value": "Sharp AR-5618 / BP-20M22 / BP-70M",
     "spec2Label": "PAGE YIELD",
-    "spec2Value": "High Yield (CMYK)",
+    "spec2Value": "Black: ~19,000 pages (MX-235FT)",
     "category": "Toners",
     "price": "Contact for Price",
-    "rating": "4.9",
-    "reviews": "(31)",
+    "rating": "4.8",
+    "reviews": "(19)",
     "highlights": [
       {
-        "title": "Full CMYK Color Set",
-        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete professional color printing."
+        "title": "Corporate Mono Standard",
+        "description": "Perfect for office document copying and text reports."
       },
       {
-        "title": "Latest Toner Technology",
-        "description": "Advanced color toner formulas produce vivid, accurate color reproduction on every print."
+        "title": "High Duty Cycle",
+        "description": "Engineered to support rapid copy speeds without smearing."
       },
       {
-        "title": "Durable & Reliable",
-        "description": "Reliable cartridge design ensures minimal smearing, streaking, or print defects."
-      },
-      {
-        "title": "Superior Print Performance",
-        "description": "Sharp text and vivid color output for presentations, reports, and color documents."
-      },
-      {
-        "title": "100% Quality Tested",
-        "description": "Rigorously tested for full compatibility and consistent performance with Brother printers."
+        "title": "OEM Grade",
+        "description": "Matches the original manufacturing specifications."
       }
     ],
     "specs": [
       {
-        "label": "CARTRIDGE COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
-      },
-      {
-        "label": "MODEL",
-        "value": "TN-279 Premium Grade"
+        "label": "MODELS",
+        "value": "MX-235FT (Black), BP-FT200, BP-FT705"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "Compatible with Brother color laser printers supporting TN-279 series"
+        "value": "Sharp AR-5618, AR-5620, AR-5623, BP-20M22, BP-20M24, BP-70M75"
       },
       {
         "label": "PRINT TECHNOLOGY",
-        "value": "Color Laser Printing"
+        "value": "Monochrome Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-207a-magenta",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 207A Magenta LaserJet Toner Cartridge (W2213A)",
+    "description": "Original HP 207A Magenta toner cartridge (W2213A) with JetIntelligence. Delivers professional-grade color prints with high-speed performance for compatible HP Color LaserJet Pro printers.",
+    "imageAsset": "assets/images/products/hp_207a_magenta.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Color LaserJet Pro M255 / M282 / M283",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Magenta: ~1,250 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(12)",
+    "highlights": [
+      {
+        "title": "JetIntelligence Technology",
+        "description": "Optimizes prints, tracks toner levels, and ensures HP quality."
       },
       {
-        "label": "PAGE YIELD",
-        "value": "High Yield – CMYK set for extended print runs"
+        "title": "True Magenta Gamut",
+        "description": "Crisp and vivid magenta hues for creative business outputs."
       },
       {
-        "label": "QUALITY ASSURANCE",
-        "value": "100% Quality Tested & Certified"
+        "title": "Reliable Durability",
+        "description": "Consistently reliable print quality across the cartridge life."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Magenta"
       },
       {
-        "label": "IDEAL USE",
-        "value": "Color document printing, presentations, marketing materials, office use"
+        "label": "MODEL",
+        "value": "W2213A (HP 207A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP Color LaserJet Pro M255dw, M255nw, MFP M282nw, MFP M283fdn, MFP M283fdw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
       }
     ]
   },
@@ -840,546 +356,242 @@
     ]
   },
   {
-    "id": "saimatic-toner-725",
+    "id": "hp-toner-150a",
     "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic 725 Premium Grade Toner Cartridge (Black)",
-    "description": "High-yield monochrome laser toner cartridge for Canon laser printers. Powered by the latest toner powder technology for clear, sharp images, excellent print quality, and high page yield in both home and office environments.",
-    "imageAsset": "assets/images/products/saimatic_725_v2.jpg",
+    "series": "HP TONER SERIES",
+    "title": "HP 150A Black LaserJet Toner Cartridge (W1500A)",
+    "description": "Original HP 150A Black toner cartridge (W1500A). Formulated to optimize printing on compact HP LaserJet M111 and MFP M141 series printers.",
+    "imageAsset": "assets/images/products/hp_150a_black.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Canon Laser Printers",
-    "spec2Label": "PRINT TYPE",
-    "spec2Value": "Monochrome (Black)",
+    "spec1Value": "HP LaserJet M111 / MFP M141",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~975 pages",
     "category": "Toners",
     "price": "Contact for Price",
     "rating": "4.8",
-    "reviews": "(55)",
+    "reviews": "(12)",
     "highlights": [
       {
-        "title": "Latest Toner Powder",
-        "description": "Advanced toner powder formulation for consistently clear, crisp, high-quality black prints."
+        "title": "Compact Design",
+        "description": "Calibrated directly to support high printing quality in space-saving printer designs."
       },
       {
-        "title": "High Page Yield",
-        "description": "Maximized page yield reduces replacement frequency and total printing costs."
+        "title": "Reliable Output",
+        "description": "Produces clear lines and deep blacks for administrative office tasks."
       },
       {
-        "title": "Excellent Print Quality",
-        "description": "Produces sharp text and graphics with deep, rich black tones on every page."
-      },
-      {
-        "title": "Clear Images & Text",
-        "description": "Advanced toner formulation ensures clean image reproduction and smudge-free output."
-      },
-      {
-        "title": "100% Quality Tested",
-        "description": "Every cartridge is tested for guaranteed performance and full Canon printer compatibility."
+        "title": "Fast Fusing Speed",
+        "description": "Saves energy and increases start speed by melting under low temperatures."
       }
     ],
     "specs": [
       {
-        "label": "CARTRIDGE COLOR",
-        "value": "Black (Monochrome)"
+        "label": "COLOR",
+        "value": "Black"
       },
       {
         "label": "MODEL",
-        "value": "725 / CRG-725 Premium Grade"
+        "value": "W1500A (HP 150A)"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "Compatible with Canon laser printers supporting CRG-725 / Cartridge 725"
+        "value": "HP LaserJet M111a, M111w, MFP M141a, MFP M141w"
       },
       {
         "label": "PRINT TECHNOLOGY",
-        "value": "Monochrome Laser Printing"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "High Yield – approx. 1,600+ pages at 5% coverage"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "100% Quality Tested & Certified"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Home offices, small businesses, everyday document printing"
+        "value": "Monochrome Laser"
       }
     ]
   },
   {
-    "id": "saimatic-toner-067",
+    "id": "canon-toner-cexv54",
     "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic 067 Premium Grade Toner Cartridges (CMYK Set)",
-    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for Canon color laser printers. Backed by the latest toner technology for durable, reliable color performance and superior print output across high-volume jobs.",
-    "imageAsset": "assets/images/products/saimatic_067_v2.jpg",
+    "series": "CANON TONER SERIES",
+    "title": "Canon C-EXV 54 Toner Cartridge Set (CMY)",
+    "description": "Genuine Canon C-EXV 54 toner cartridges (Cyan, Magenta, Yellow) engineered for imageRUNNER color copiers. Delivers exceptional page yield, vibrant color reproduction, and smudge-resistant text.",
+    "imageAsset": "assets/images/products/canon_cexv54_toner.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Canon Color Printers",
+    "spec1Value": "Canon imageRUNNER C3025/C3125/C3226",
     "spec2Label": "PAGE YIELD",
-    "spec2Value": "High Yield (CMYK)",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "5.0",
-    "reviews": "(19)",
-    "highlights": [
-      {
-        "title": "Full CMYK Color Set",
-        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete color printing."
-      },
-      {
-        "title": "Latest Toner Technology",
-        "description": "Advanced formulas ensure consistent, high-quality color reproduction for every print."
-      },
-      {
-        "title": "Durable & Reliable",
-        "description": "Built to withstand high print volumes without compromising on quality or performance."
-      },
-      {
-        "title": "Superior Print Performance",
-        "description": "Produces sharp, vivid color prints for professional presentations and documents."
-      },
-      {
-        "title": "Environment Friendly",
-        "description": "Eco-conscious manufacturing reduces environmental impact while maintaining premium output."
-      }
-    ],
-    "specs": [
-      {
-        "label": "CARTRIDGE COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
-      },
-      {
-        "label": "MODEL",
-        "value": "067 / CRG-067 Premium Grade"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Compatible with Canon color laser printers supporting CRG-067 / Cartridge 067"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Color Laser Printing"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "High Yield – CMYK set for extended color print runs"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "100% Quality Tested & Certified"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Color documents, marketing materials, professional presentations, office use"
-      }
-    ]
-  },
-  {
-    "id": "saimatic-toner-069",
-    "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic 069 Premium Grade Toner Cartridges (CMYK Set)",
-    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for Canon color laser printers. Engineered with the latest toner technology for vibrant color accuracy, durable print performance, and environmental responsibility.",
-    "imageAsset": "assets/images/products/saimatic_069.jpg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Canon Color Printers",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "High Yield (CMYK)",
+    "spec2Value": "Color: ~8,500 pages each",
     "category": "Toners",
     "price": "Contact for Price",
     "rating": "4.9",
     "reviews": "(14)",
     "highlights": [
       {
-        "title": "Full CMYK Color Set",
-        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete professional color printing."
+        "title": "High Copy Volume",
+        "description": "Specifically calibrated for office multifunction printers."
       },
       {
-        "title": "Latest Toner Technology",
-        "description": "Advanced toner chemistry delivers bright, accurate colors with exceptional consistency."
+        "title": "Superior Color Accuracy",
+        "description": "Consistent, vibrant graphics for business documentation."
       },
       {
-        "title": "Durable & Reliable",
-        "description": "Designed for high-volume print workloads without loss of quality or performance."
-      },
-      {
-        "title": "Superior Print Performance",
-        "description": "Produces crisp text and vivid images ideal for professional business documents."
-      },
-      {
-        "title": "Environment Friendly",
-        "description": "Manufactured with sustainability in mind to minimize ecological impact."
+        "title": "Reliable Output",
+        "description": "Prevents streaks and maintains print drum health."
       }
     ],
     "specs": [
       {
-        "label": "CARTRIDGE COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+        "label": "COLORS",
+        "value": "Cyan, Magenta, Yellow (CMY Set)"
       },
       {
         "label": "MODEL",
-        "value": "069 / CRG-069 Premium Grade"
+        "value": "C-EXV 54 (1395C002AA, 1396C002AA, 1397C002AA)"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "Compatible with Canon color laser printers supporting CRG-069 / Cartridge 069"
+        "value": "Canon imageRUNNER C3025, C3025i, C3125i, C3226, C3226i"
       },
       {
         "label": "PRINT TECHNOLOGY",
-        "value": "Color Laser Printing"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "High Yield – CMYK set for extended color print runs"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "100% Quality Tested & Certified"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Office color printing, brochures, presentations, marketing materials"
+        "value": "Laser Copier Toner"
       }
     ]
   },
   {
-    "id": "saimatic-toner-312a",
+    "id": "hp-toner-230a-yellow",
     "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic 312A Premium Grade Toner Cartridges (CMYK Set)",
-    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for HP Color LaserJet printers. Delivers rich, accurate colors and sharp monochrome output with high yield, backed by 100% quality testing.",
-    "imageAsset": "assets/images/products/saimatic_312a.jpg",
+    "series": "HP TONER SERIES",
+    "title": "HP 230A Yellow LaserJet Toner Cartridge (W2302A)",
+    "description": "Original HP 230A Yellow toner cartridge (W2302A). Leverages advanced TerraJet toner particles for high-fidelity yellow color gamuts and superior print efficiency.",
+    "imageAsset": "assets/images/products/hp_230a_yellow.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "HP Color LaserJet",
+    "spec1Value": "HP LaserJet Pro 4203 / MFP 4303",
     "spec2Label": "PAGE YIELD",
-    "spec2Value": "High Yield (CMYK)",
+    "spec2Value": "Yellow: ~1,800 pages",
     "category": "Toners",
     "price": "Contact for Price",
     "rating": "4.8",
-    "reviews": "(22)",
-    "highlights": [
-      {
-        "title": "Full CMYK Color Set",
-        "description": "Includes Black, Cyan, Magenta, and Yellow for complete HP Color LaserJet printing coverage."
-      },
-      {
-        "title": "Latest Toner Technology",
-        "description": "Advanced toner formulas provide vibrant, long-lasting color prints with precise color matching."
-      },
-      {
-        "title": "Durable & Reliable",
-        "description": "Engineered for consistent, streak-free performance across high-volume HP LaserJet print jobs."
-      },
-      {
-        "title": "Superior Print Performance",
-        "description": "Delivers professional-quality color output for business documents and marketing materials."
-      },
-      {
-        "title": "100% Quality Tested",
-        "description": "Every cartridge undergoes strict quality verification for HP Color LaserJet compatibility."
-      }
-    ],
-    "specs": [
-      {
-        "label": "CARTRIDGE COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
-      },
-      {
-        "label": "MODEL",
-        "value": "312A / CF380A/CF381A/CF382A/CF383A"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Compatible with HP Color LaserJet Pro MFP M476 series"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Color Laser Printing"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "Approx. 2,400 pages (Black) / 2,700 pages (Color) at 5% coverage"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "100% Quality Tested & Certified"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Business color documents, office presentations, marketing prints"
-      }
-    ]
-  },
-  {
-    "id": "saimatic-toner-203a",
-    "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic 203A Premium Grade Toner Cartridges (CMYK Set)",
-    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for HP Color LaserJet Pro printers. Featuring the latest toner technology for accurate color reproduction, high print volume, and consistent reliability.",
-    "imageAsset": "assets/images/products/saimatic_203a.jpg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "HP Color LaserJet Pro",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "High Yield (CMYK)",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "4.9",
     "reviews": "(17)",
     "highlights": [
       {
-        "title": "Full CMYK Color Set",
-        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete HP color printer coverage."
+        "title": "TerraJet Precision",
+        "description": "Precise placement of yellow toner particles for perfect color mixing and text boundaries."
       },
       {
-        "title": "Latest Toner Technology",
-        "description": "Advanced toner chemistry delivers precise color accuracy and consistency across all print runs."
+        "title": "Anti-Smudge Finish",
+        "description": "Instant drying formulation avoids color runs and text smears on glossy papers."
       },
       {
-        "title": "Durable & Reliable",
-        "description": "Designed for high-volume color printing without quality degradation over time."
-      },
-      {
-        "title": "Superior Print Performance",
-        "description": "Vivid colors and sharp text for professional business documents and color presentations."
-      },
-      {
-        "title": "Environment Friendly",
-        "description": "Eco-responsible design with reduced environmental footprint during manufacturing."
+        "title": "OEM Guarantee",
+        "description": "Engineered directly by HP to protect printer drums and maintain long-term device health."
       }
     ],
     "specs": [
       {
-        "label": "CARTRIDGE COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+        "label": "COLOR",
+        "value": "Yellow"
       },
       {
         "label": "MODEL",
-        "value": "203A / CF540A/CF541A/CF542A/CF543A"
+        "value": "W2302A (HP 230A)"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "Compatible with HP Color LaserJet Pro M254, MFP M281 series"
+        "value": "HP LaserJet Pro 4203dn, 4203dw, MFP 4303fdn, MFP 4303fdw, MFP 4303dw"
       },
       {
         "label": "PRINT TECHNOLOGY",
-        "value": "Color Laser Printing"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "Approx. 1,400 pages (Black) / 1,300 pages (Color) at 5% coverage"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "100% Quality Tested & Certified"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Office color documents, professional presentations, marketing prints"
+        "value": "Laser Printing"
       }
     ]
   },
   {
-    "id": "saimatic-toner-207a",
+    "id": "hp-toner-85a",
     "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic 207A Premium Grade Toner Cartridges (CMYK Set)",
-    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for HP Color LaserJet Pro printers. Backed by the latest toner technology for high yield, vibrant color output, and superior print consistency.",
-    "imageAsset": "assets/images/products/saimatic_207a_v2.jpg",
+    "series": "HP TONER SERIES",
+    "title": "HP 85A Black LaserJet Toner Cartridge (CE285A)",
+    "description": "Original HP 85A Black toner cartridge (CE285A). The standard monochrome cartridge for HP LaserJet Pro P1102 printers, providing high-efficiency text and line-art prints.",
+    "imageAsset": "assets/images/products/hp_85a_black.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "HP Color LaserJet Pro",
+    "spec1Value": "HP LaserJet Pro P1102 / M1212 / M1217",
     "spec2Label": "PAGE YIELD",
-    "spec2Value": "High Yield (CMYK)",
-    "category": "Toners",
-    "price": "Contact for Price",
-    "rating": "5.0",
-    "reviews": "(120)",
-    "highlights": [
-      {
-        "title": "Full CMYK Color Set",
-        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete HP color printing coverage."
-      },
-      {
-        "title": "Latest Toner Technology",
-        "description": "Advanced toner formulas deliver vibrant, accurate color prints with sharp detail."
-      },
-      {
-        "title": "Durable & Reliable",
-        "description": "Consistent high-performance printing for demanding office and commercial environments."
-      },
-      {
-        "title": "Superior Print Performance",
-        "description": "Professional-grade color and monochrome output for business documents and presentations."
-      },
-      {
-        "title": "Environment Friendly",
-        "description": "Manufactured using environmentally sustainable processes and materials."
-      }
-    ],
-    "specs": [
-      {
-        "label": "CARTRIDGE COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
-      },
-      {
-        "label": "MODEL",
-        "value": "207A / W2210A/W2211A/W2212A/W2213A"
-      },
-      {
-        "label": "COMPATIBILITY",
-        "value": "Compatible with HP Color LaserJet Pro M255, MFP M282/M283 series"
-      },
-      {
-        "label": "PRINT TECHNOLOGY",
-        "value": "Color Laser Printing"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "Approx. 1,350 pages (Black) / 1,250 pages (Color) at 5% coverage"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "100% Quality Tested & Certified"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Corporate offices, high-volume color printing, professional environments"
-      }
-    ]
-  },
-  {
-    "id": "saimatic-toner-npg45-gpr30-cexv28",
-    "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic NPG-45 / GPR-30 / C-EXV28 Toner Set (CMYK)",
-    "description": "Smart and intelligent quality toner set (Black, Cyan, Magenta, Yellow) for Canon imageRUNNER ADVANCE series copiers and printers. Designed for high-volume office environments requiring consistent, professional-grade color output.",
-    "imageAsset": "assets/images/products/saimatic_npg45_gpr30_cexv28.jpg",
-    "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Canon imageRUNNER",
-    "spec2Label": "PAGE YIELD",
-    "spec2Value": "High Yield (CMYK)",
+    "spec2Value": "Black: ~1,600 pages",
     "category": "Toners",
     "price": "Contact for Price",
     "rating": "4.9",
-    "reviews": "(38)",
+    "reviews": "(52)",
     "highlights": [
       {
-        "title": "Smart & Intelligent Quality",
-        "description": "Precision-engineered toner for Canon imageRUNNER ADVANCE series with intelligent chip calibration."
+        "title": "Ultra-Fine Powder Flow",
+        "description": "Advanced toner particles ensure smooth monochrome layers without text lines."
       },
       {
-        "title": "Full CMYK Color Set",
-        "description": "Complete Black, Cyan, Magenta, and Yellow toner set for full-color reproduction on Canon copiers."
+        "title": "Proven Office Standard",
+        "description": "Legendary print reliability across millions of pages globally."
       },
       {
-        "title": "High-Volume Office Performance",
-        "description": "Built for the demanding output requirements of large office and commercial print environments."
-      },
-      {
-        "title": "Consistent Color Accuracy",
-        "description": "Delivers stable, uniform color across extended print runs for professional results."
-      },
-      {
-        "title": "100% Quality Tested",
-        "description": "Each toner is tested for compatibility with Canon imageRUNNER machines for guaranteed performance."
+        "title": "Seamless Plug-n-Play",
+        "description": "Snaps directly into the developer roller slot for immediate printing capability."
       }
     ],
     "specs": [
       {
-        "label": "CARTRIDGE COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+        "label": "COLOR",
+        "value": "Black"
       },
       {
         "label": "MODEL",
-        "value": "NPG-45 / GPR-30 / C-EXV28"
+        "value": "CE285A (HP 85A)"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "Canon imageRUNNER ADVANCE C5030, C5035, C5235, C5240 series"
+        "value": "HP LaserJet Pro P1102, P1102w, P1109w, MFP M1212nf, MFP M1217nfw"
       },
       {
         "label": "PRINT TECHNOLOGY",
-        "value": "Color Laser / Copier Toner"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "High Yield – designed for large-format office volume printing"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "Smart & Intelligent Quality Tested"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Large office copiers, corporate print centers, high-volume color reproduction"
+        "value": "Monochrome Laser"
       }
     ]
   },
   {
-    "id": "saimatic-toner-npg46-gpr31-cexv29",
+    "id": "hp-toner-230a-magenta",
     "status": "IN STOCK",
-    "series": "SAIMATIC TONER SERIES",
-    "title": "Saimatic NPG-46 / GPR-31 / C-EXV29 Toner Set (CMYK)",
-    "description": "Smart and intelligent quality toner set (Black, Cyan, Magenta, Yellow) for Canon imageRUNNER ADVANCE C5030/5035/5235/5240 series. Engineered for high-volume commercial environments demanding precise, consistent color printing.",
-    "imageAsset": "assets/images/products/saimatic_npg46_gpr31_cexv29.jpg",
+    "series": "HP TONER SERIES",
+    "title": "HP 230A Magenta LaserJet Toner Cartridge (W2303A)",
+    "description": "Original HP 230A Magenta toner cartridge (W2303A) with TerraJet technology. Delivers rich, professional magenta tones for documents, flyers, and premium prints.",
+    "imageAsset": "assets/images/products/hp_230a_magenta.jpeg",
     "spec1Label": "COMPATIBILITY",
-    "spec1Value": "Canon imageRUNNER ADVANCE",
+    "spec1Value": "HP LaserJet Pro 4203 / MFP 4303",
     "spec2Label": "PAGE YIELD",
-    "spec2Value": "High Yield (CMYK)",
+    "spec2Value": "Magenta: ~1,800 pages",
     "category": "Toners",
     "price": "Contact for Price",
-    "rating": "5.0",
-    "reviews": "(26)",
+    "rating": "4.9",
+    "reviews": "(20)",
     "highlights": [
       {
-        "title": "Smart & Intelligent Quality",
-        "description": "Precision-engineered for Canon imageRUNNER ADVANCE machines with intelligent quality control."
+        "title": "Rich Color Gamut",
+        "description": "Provides professional magenta tones for vibrant printing output."
       },
       {
-        "title": "Full CMYK Color Set",
-        "description": "Complete Black, Cyan, Magenta, and Yellow toner for full-color commercial print coverage."
+        "title": "Optimal Fusion",
+        "description": "Designed for maximum efficiency and clean prints at any page coverage."
       },
       {
-        "title": "High-Volume Commercial Output",
-        "description": "Optimized for demanding office copier environments that require reliable, large-scale printing."
-      },
-      {
-        "title": "Precise Color Reproduction",
-        "description": "Achieves accurate, vibrant color output across extended, high-duty-cycle print jobs."
-      },
-      {
-        "title": "100% Quality Tested",
-        "description": "Fully tested for compatibility with Canon imageRUNNER ADVANCE C5030/5035/5235/5240 models."
+        "title": "Smart Tracking Enabled",
+        "description": "Includes tracking metrics and anti-counterfeit verification."
       }
     ],
     "specs": [
       {
-        "label": "CARTRIDGE COLORS",
-        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+        "label": "COLOR",
+        "value": "Magenta"
       },
       {
         "label": "MODEL",
-        "value": "NPG-46 / GPR-31 / C-EXV29"
+        "value": "W2303A (HP 230A)"
       },
       {
         "label": "COMPATIBILITY",
-        "value": "Canon imageRUNNER ADVANCE C5030, C5035, C5235, C5240"
+        "value": "HP LaserJet Pro 4203dn, 4203dw, MFP 4303fdn, MFP 4303fdw, MFP 4303dw"
       },
       {
         "label": "PRINT TECHNOLOGY",
-        "value": "Color Laser / Copier Toner"
-      },
-      {
-        "label": "PAGE YIELD",
-        "value": "High Yield – designed for large-volume commercial copy/print jobs"
-      },
-      {
-        "label": "QUALITY ASSURANCE",
-        "value": "Smart & Intelligent Quality Tested"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Corporate office copiers, commercial print centers, high-volume color reproduction"
+        "value": "Laser Printing"
       }
     ]
   },
@@ -1452,6 +664,840 @@
     ]
   },
   {
+    "id": "hp-toner-106a-original",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 106A Black LaserJet Original Toner Cartridge (W1106A)",
+    "description": "Original HP 106A Black toner cartridge (W1106A). Engineered for everyday office tasks, providing reliable monochrome printing with crisp text at an affordable price point.",
+    "imageAsset": "assets/images/products/hp_106a_black.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Laser 107 / MFP 135 / MFP 137",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~1,000 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(30)",
+    "highlights": [
+      {
+        "title": "Original HP Quality",
+        "description": "Engineered to deliver deep black printing text and high reliability."
+      },
+      {
+        "title": "Affordable Choice",
+        "description": "Get consistent HP results at a cost-effective price point for office tasks."
+      },
+      {
+        "title": "Precise Powder Flow",
+        "description": "Avoids paper jams and print lines, keeping office documents professional."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Black"
+      },
+      {
+        "label": "MODEL",
+        "value": "W1106A (HP 106A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP Laser 107a, 107r, 107w, MFP 135a, MFP 135r, MFP 135w, MFP 137fnw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-415a-yellow",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 415A Yellow LaserJet Toner Cartridge (W2032A)",
+    "description": "Original HP 415A Yellow toner cartridge (W2032A) with JetIntelligence. Delivers rich, bright yellow shades and reliable print performance.",
+    "imageAsset": "assets/images/products/hp_415a_yellow.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro M454 / MFP M479",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Yellow: ~2,100 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(14)",
+    "highlights": [
+      {
+        "title": "High Brilliance Yellow",
+        "description": "Provides rich, vivid yellow colors for complex graphics and business templates."
+      },
+      {
+        "title": "Precision Particle Flow",
+        "description": "Ensures uniform layer distribution on paper to prevent color gaps."
+      },
+      {
+        "title": "Easy Toner Replacement",
+        "description": "Quick-release cartridge mechanism makes swapping cartridges simple."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Yellow"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2032A (HP 415A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro M454 series, HP Color LaserJet Pro MFP M479 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-067",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic 067 Premium Grade Toner Cartridges (CMYK Set)",
+    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for Canon color laser printers. Backed by the latest toner technology for durable, reliable color performance and superior print output across high-volume jobs.",
+    "imageAsset": "assets/images/products/saimatic_067_v2.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon Color Printers",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(19)",
+    "highlights": [
+      {
+        "title": "Full CMYK Color Set",
+        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete color printing."
+      },
+      {
+        "title": "Latest Toner Technology",
+        "description": "Advanced formulas ensure consistent, high-quality color reproduction for every print."
+      },
+      {
+        "title": "Durable & Reliable",
+        "description": "Built to withstand high print volumes without compromising on quality or performance."
+      },
+      {
+        "title": "Superior Print Performance",
+        "description": "Produces sharp, vivid color prints for professional presentations and documents."
+      },
+      {
+        "title": "Environment Friendly",
+        "description": "Eco-conscious manufacturing reduces environmental impact while maintaining premium output."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "067 / CRG-067 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Canon color laser printers supporting CRG-067 / Cartridge 067"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – CMYK set for extended color print runs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Color documents, marketing materials, professional presentations, office use"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-tn279",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic TN-279 Premium Grade Toner Cartridges (CMYK Set)",
+    "description": "Complete 4-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for Brother color laser printers. Engineered with the latest toner technology, delivering vibrant color accuracy and sharp detail for professional color documents.",
+    "imageAsset": "assets/images/products/saimatic_tn279_v2.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Brother Color Printers",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(31)",
+    "highlights": [
+      {
+        "title": "Full CMYK Color Set",
+        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete professional color printing."
+      },
+      {
+        "title": "Latest Toner Technology",
+        "description": "Advanced color toner formulas produce vivid, accurate color reproduction on every print."
+      },
+      {
+        "title": "Durable & Reliable",
+        "description": "Reliable cartridge design ensures minimal smearing, streaking, or print defects."
+      },
+      {
+        "title": "Superior Print Performance",
+        "description": "Sharp text and vivid color output for presentations, reports, and color documents."
+      },
+      {
+        "title": "100% Quality Tested",
+        "description": "Rigorously tested for full compatibility and consistent performance with Brother printers."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "TN-279 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Brother color laser printers supporting TN-279 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – CMYK set for extended print runs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Color document printing, presentations, marketing materials, office use"
+      }
+    ]
+  },
+  {
+    "id": "apple-macbook-silicon",
+    "status": "IN STOCK",
+    "series": "APPLE MACBOOK",
+    "title": "Apple MacBook (M-Series)",
+    "description": "Powered by Apple Silicon (M1/M2/M3) for fast and efficient performance with all-day battery life.",
+    "imageAsset": "assets/images/products/macbook.png",
+    "spec1Label": "PROCESSOR",
+    "spec1Value": "Apple Silicon M-Series",
+    "spec2Label": "BATTERY LIFE",
+    "spec2Value": "Up to 20 hours",
+    "category": "Laptops",
+    "highlights": [
+      {
+        "title": "Apple Silicon Performance",
+        "description": "Powered by M-series chips (M1, M2, M3) for fast and efficient performance."
+      },
+      {
+        "title": "Premium Build Quality",
+        "description": "Sleek aluminum design with lightweight and durable construction."
+      },
+      {
+        "title": "Retina Display Technology",
+        "description": "High-resolution displays with accurate colors and brightness."
+      },
+      {
+        "title": "Long Battery Life",
+        "description": "Optimized hardware and software deliver all-day battery performance."
+      },
+      {
+        "title": "macOS Ecosystem Integration",
+        "description": "Seamless experience with iPhone, iPad, and other Apple devices."
+      }
+    ],
+    "specs": [
+      {
+        "label": "PROCESSOR",
+        "value": "Apple M1 / M2 / M3 chip"
+      },
+      {
+        "label": "GRAPHICS",
+        "value": "Integrated Apple GPU"
+      },
+      {
+        "label": "DISPLAY",
+        "value": "13\"–16\" Retina / Liquid Retina display"
+      },
+      {
+        "label": "MEMORY (RAM)",
+        "value": "8GB to 32GB unified memory"
+      },
+      {
+        "label": "STORAGE",
+        "value": "256GB to 2TB SSD"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi 6, Bluetooth, Thunderbolt ports"
+      },
+      {
+        "label": "BATTERY LIFE",
+        "value": "Up to 15–20 hours"
+      },
+      {
+        "label": "OPERATING SYSTEM",
+        "value": "macOS"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Students, professionals, coding, video editing, everyday productivity"
+      }
+    ]
+  },
+  {
+    "id": "sharp-toner-bpft70",
+    "status": "IN STOCK",
+    "series": "SHARP TONER SERIES",
+    "title": "Sharp BP-FT70 Toner Cartridge Set (CMY)",
+    "description": "Genuine Sharp BP-FT70 color toner cartridges set (Yellow, Magenta, Cyan). Formulated for professional corporate environments needing high-density coloring and crisp detailing.",
+    "imageAsset": "assets/images/products/sharp_bpft70_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Sharp BP-70C31 / BP-70C36 / BP-70C45",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Color: ~24,000 pages each",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(9)",
+    "highlights": [
+      {
+        "title": "Consistent Density",
+        "description": "Ensures uniform color reproduction across large runs."
+      },
+      {
+        "title": "Smart Chip Enabled",
+        "description": "Provides accurate toner consumption metrics to the copier."
+      },
+      {
+        "title": "Low-Maintenance Operation",
+        "description": "Minimizes cleaner-blade wear and waste toner."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Yellow (BP-FT70YB), Magenta (BP-FT70MB), Cyan (BP-FT70CB)"
+      },
+      {
+        "label": "MODEL",
+        "value": "BP-FT70 Series"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Sharp BP-50C26, BP-50C31, BP-50C36, BP-50C45, BP-70C31, BP-70C36, BP-70C45"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-725",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic 725 Premium Grade Toner Cartridge (Black)",
+    "description": "High-yield monochrome laser toner cartridge for Canon laser printers. Powered by the latest toner powder technology for clear, sharp images, excellent print quality, and high page yield in both home and office environments.",
+    "imageAsset": "assets/images/products/saimatic_725_v2.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon Laser Printers",
+    "spec2Label": "PRINT TYPE",
+    "spec2Value": "Monochrome (Black)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(55)",
+    "highlights": [
+      {
+        "title": "Latest Toner Powder",
+        "description": "Advanced toner powder formulation for consistently clear, crisp, high-quality black prints."
+      },
+      {
+        "title": "High Page Yield",
+        "description": "Maximized page yield reduces replacement frequency and total printing costs."
+      },
+      {
+        "title": "Excellent Print Quality",
+        "description": "Produces sharp text and graphics with deep, rich black tones on every page."
+      },
+      {
+        "title": "Clear Images & Text",
+        "description": "Advanced toner formulation ensures clean image reproduction and smudge-free output."
+      },
+      {
+        "title": "100% Quality Tested",
+        "description": "Every cartridge is tested for guaranteed performance and full Canon printer compatibility."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLOR",
+        "value": "Black (Monochrome)"
+      },
+      {
+        "label": "MODEL",
+        "value": "725 / CRG-725 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Canon laser printers supporting CRG-725 / Cartridge 725"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – approx. 1,600+ pages at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Home offices, small businesses, everyday document printing"
+      }
+    ]
+  },
+  {
+    "id": "msi-laptop-gaming",
+    "status": "AVAILABLE",
+    "series": "MSI GAMING SERIES",
+    "title": "MSI High-Performance Laptop",
+    "description": "Equipped with latest processors and NVIDIA RTX graphics for heavy gaming and creative workloads.",
+    "imageAsset": "assets/images/products/msi_laptop.png",
+    "spec1Label": "PROCESSOR",
+    "spec1Value": "Intel Core i7/i9 | Ryzen 7/9",
+    "spec2Label": "GRAPHICS",
+    "spec2Value": "NVIDIA GeForce RTX",
+    "category": "Laptops",
+    "highlights": [
+      {
+        "title": "High-Performance Gaming & Creative Power",
+        "description": "Equipped with latest Intel Core / AMD Ryzen processors and NVIDIA RTX graphics."
+      },
+      {
+        "title": "Advanced Cooling Technology",
+        "description": "Efficient thermal systems ensure stable performance during gaming and multitasking."
+      },
+      {
+        "title": "High-End Graphics & Display",
+        "description": "Designed for gamers and creators with powerful GPUs and immersive displays."
+      },
+      {
+        "title": "Custom Performance Software",
+        "description": "Tools like MSI Center help optimize performance, cooling, and system settings."
+      },
+      {
+        "title": "Premium Build & Design",
+        "description": "Available in gaming, business, and thin-light series with stylish designs."
+      }
+    ],
+    "specs": [
+      {
+        "label": "PROCESSOR",
+        "value": "Intel Core i7 / i9 or AMD Ryzen 7 / 9"
+      },
+      {
+        "label": "GRAPHICS",
+        "value": "NVIDIA GeForce RTX 30/40/50 series"
+      },
+      {
+        "label": "DISPLAY",
+        "value": "13\" to 18\" FHD / QHD / OLED panels"
+      },
+      {
+        "label": "MEMORY (RAM)",
+        "value": "Up to 64GB DDR5"
+      },
+      {
+        "label": "STORAGE",
+        "value": "Up to 2TB SSD"
+      },
+      {
+        "label": "CONNECTIVITY",
+        "value": "Wi-Fi 6/7, Bluetooth, USB-C, HDMI"
+      },
+      {
+        "label": "COOLING SYSTEM",
+        "value": "Advanced multi-fan thermal design"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Gaming, video editing, 3D design, high-performance tasks"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-26a",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 26A Black LaserJet Toner Cartridge (CF226A)",
+    "description": "Original HP 26A Black toner cartridge (CF226A) with JetIntelligence. Designed to deliver consistent black text printing with optimized power usage for HP LaserJet Pro M402 series.",
+    "imageAsset": "assets/images/products/hp_26a_black.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro M402 / MFP M426",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~3,100 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(45)",
+    "highlights": [
+      {
+        "title": "Legendary LaserJet Output",
+        "description": "Consistent print depth and sharp text alignments over the cartridge lifespan."
+      },
+      {
+        "title": "Anti-Fraud Lock",
+        "description": "Ensures authentication of genuine parts to protect office budget planning."
+      },
+      {
+        "title": "Easy Toner Recycling",
+        "description": "Approved for easy recycling through the HP Planet Partners program."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Black"
+      },
+      {
+        "label": "MODEL",
+        "value": "CF226A (HP 26A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro M402n, M402d, M402dn, M402dw, MFP M426dw, MFP M426fdn, MFP M426fdw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-312a",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic 312A Premium Grade Toner Cartridges (CMYK Set)",
+    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for HP Color LaserJet printers. Delivers rich, accurate colors and sharp monochrome output with high yield, backed by 100% quality testing.",
+    "imageAsset": "assets/images/products/saimatic_312a.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Color LaserJet",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(22)",
+    "highlights": [
+      {
+        "title": "Full CMYK Color Set",
+        "description": "Includes Black, Cyan, Magenta, and Yellow for complete HP Color LaserJet printing coverage."
+      },
+      {
+        "title": "Latest Toner Technology",
+        "description": "Advanced toner formulas provide vibrant, long-lasting color prints with precise color matching."
+      },
+      {
+        "title": "Durable & Reliable",
+        "description": "Engineered for consistent, streak-free performance across high-volume HP LaserJet print jobs."
+      },
+      {
+        "title": "Superior Print Performance",
+        "description": "Delivers professional-quality color output for business documents and marketing materials."
+      },
+      {
+        "title": "100% Quality Tested",
+        "description": "Every cartridge undergoes strict quality verification for HP Color LaserJet compatibility."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "312A / CF380A/CF381A/CF382A/CF383A"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with HP Color LaserJet Pro MFP M476 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 2,400 pages (Black) / 2,700 pages (Color) at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Business color documents, office presentations, marketing prints"
+      }
+    ]
+  },
+  {
+    "id": "asus-rog-astral-white-rtx5090",
+    "status": "AVAILABLE",
+    "series": "ASUS ROG ASTRAL",
+    "title": "ASUS ROG Astral White GeForce RTX 5090 OC Edition 32GB",
+    "description": "Stunning all-white flagship GPU. ASUS ROG Astral White edition NVIDIA GeForce RTX 5090. Features 32GB GDDR7 memory, PCIe 5.0 support, and Aura Sync custom lighting. Ideal for high-end all-white gaming stations and AI workloads.",
+    "imageAsset": "assets/images/products/asus_rog_astral_white_rtx5090.jpeg",
+    "spec1Label": "MEMORY",
+    "spec1Value": "32GB GDDR7",
+    "spec2Label": "INTERFACE",
+    "spec2Value": "PCIe 5.0 Support",
+    "category": "Gaming",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(152)",
+    "highlights": [
+      {
+        "title": "Stunning All-White Edition",
+        "description": "Premium white shroud, backplate, and structural frames for unique theme configurations."
+      },
+      {
+        "title": "PCIe 5.0 High Speed Interface",
+        "description": "Maximized bandwidth connection with modern CPU socket environments."
+      },
+      {
+        "title": "Patented Vapor Chamber",
+        "description": "Custom vapor chamber directly cooling GPU core for stable performance."
+      }
+    ],
+    "specs": [
+      {
+        "label": "GRAPHICS ENGINE",
+        "value": "NVIDIA GeForce RTX 5090"
+      },
+      {
+        "label": "VIDEO MEMORY",
+        "value": "32GB GDDR7"
+      },
+      {
+        "label": "INTERFACE",
+        "value": "PCIe 5.0 x16"
+      },
+      {
+        "label": "COLOR SCHEME",
+        "value": "Full White Shroud & Metal Backplate"
+      },
+      {
+        "label": "DISPLAY SUPPORT",
+        "value": "Supports up to 4 concurrent monitors"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-207a-cyan",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 207A Cyan LaserJet Toner Cartridge (W2211A)",
+    "description": "Original HP 207A Cyan toner cartridge (W2211A) with JetIntelligence. Formulated to provide bright, accurate cyan color prints for workgroup presentations.",
+    "imageAsset": "assets/images/products/hp_207a_cyan.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Color LaserJet Pro M255 / M282 / M283",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Cyan: ~1,250 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.7",
+    "reviews": "(15)",
+    "highlights": [
+      {
+        "title": "True Color Reproduction",
+        "description": "Formulated for accurate cyan gradients and clean office printing."
+      },
+      {
+        "title": "Efficient Melting Profile",
+        "description": "Lowers power consumption by melting at lower temperatures."
+      },
+      {
+        "title": "Integrated Chip",
+        "description": "Accurate gauge readings warn you before running out of toner."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Cyan"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2211A (HP 207A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP Color LaserJet Pro M255dw, M255nw, MFP M282nw, MFP M283fdn, MFP M283fdw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "asus-tuf-rtx5090",
+    "status": "AVAILABLE",
+    "series": "ASUS TUF GAMING",
+    "title": "ASUS TUF Gaming GeForce RTX 5090 OC Edition 32GB",
+    "description": "Flagship NVIDIA GeForce RTX 5090 graphics card custom-designed by ASUS TUF. Armed with 32GB GDDR7 memory, DLSS 4, ultra-advanced ray tracing cores, and military-grade durability. Designed for extreme 4K/8K gaming and high-performance AI workloads.",
+    "imageAsset": "assets/images/products/asus_tuf_rtx5090.jpeg",
+    "spec1Label": "MEMORY",
+    "spec1Value": "32GB GDDR7",
+    "spec2Label": "COOLING",
+    "spec2Value": "Triple-Fan Axial-tech",
+    "category": "Gaming",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(186)",
+    "highlights": [
+      {
+        "title": "Next-Gen NVIDIA Blackwell",
+        "description": "Built on Blackwell architecture with DLSS 4 and high-performance AI tensor cores."
+      },
+      {
+        "title": "Military-Grade Capacitors",
+        "description": "Rated for 20,000 hours at 105C, making the GPU power delivery ultra-durable."
+      },
+      {
+        "title": "Axial-tech Fans",
+        "description": "Ventilator system scaled up for 21% more airflow, optimizing performance thermal efficiency."
+      }
+    ],
+    "specs": [
+      {
+        "label": "GRAPHICS ENGINE",
+        "value": "NVIDIA GeForce RTX 5090"
+      },
+      {
+        "label": "VIDEO MEMORY",
+        "value": "32GB GDDR7"
+      },
+      {
+        "label": "ENGINE CLOCK",
+        "value": "OC Mode - Boost Clock: TBA"
+      },
+      {
+        "label": "CUDA CORES",
+        "value": "TBA (Blackwell Flagship Core)"
+      },
+      {
+        "label": "MEMORY INTERFACE",
+        "value": "512-bit"
+      },
+      {
+        "label": "RESOLUTION",
+        "value": "Digital Max Resolution 7680 x 4320"
+      },
+      {
+        "label": "INTERFACE",
+        "value": "Yes x 2 (Native HDMI 2.1a), Yes x 3 (Native DisplayPort 2.1)"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-207a",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic 207A Premium Grade Toner Cartridges (CMYK Set)",
+    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for HP Color LaserJet Pro printers. Backed by the latest toner technology for high yield, vibrant color output, and superior print consistency.",
+    "imageAsset": "assets/images/products/saimatic_207a_v2.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Color LaserJet Pro",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(120)",
+    "highlights": [
+      {
+        "title": "Full CMYK Color Set",
+        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete HP color printing coverage."
+      },
+      {
+        "title": "Latest Toner Technology",
+        "description": "Advanced toner formulas deliver vibrant, accurate color prints with sharp detail."
+      },
+      {
+        "title": "Durable & Reliable",
+        "description": "Consistent high-performance printing for demanding office and commercial environments."
+      },
+      {
+        "title": "Superior Print Performance",
+        "description": "Professional-grade color and monochrome output for business documents and presentations."
+      },
+      {
+        "title": "Environment Friendly",
+        "description": "Manufactured using environmentally sustainable processes and materials."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "207A / W2210A/W2211A/W2212A/W2213A"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with HP Color LaserJet Pro M255, MFP M282/M283 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 1,350 pages (Black) / 1,250 pages (Color) at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Corporate offices, high-volume color printing, professional environments"
+      }
+    ]
+  },
+  {
     "id": "hp-printer-all-in-one",
     "status": "AVAILABLE",
     "series": "HP PRINTERS",
@@ -1497,6 +1543,330 @@
       {
         "label": "IDEAL USE",
         "value": "Home and office use"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-222a",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 222A Black LaserJet Toner Cartridge (W2220A)",
+    "description": "Original HP 222A Black toner cartridge (W2220A) with TerraJet technology. Delivers crisp, deep black text and high page yields for HP LaserJet Pro printers.",
+    "imageAsset": "assets/images/products/hp_222a_black.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro 3203 / MFP 3303 / MFP 3388",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~1,300 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(14)",
+    "highlights": [
+      {
+        "title": "TerraJet Technology",
+        "description": "Highly efficient design optimizes toner usage for more pages and lower energy consumption."
+      },
+      {
+        "title": "Exceptional Print Quality",
+        "description": "Sharp lines and consistent gradients optimized for professional business documents."
+      },
+      {
+        "title": "Eco-Friendly Design",
+        "description": "Features reduced plastic packaging and easy recycling options."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Black"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2220A (HP 222A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro 3203dn, 3203dw, MFP 3303fdw, MFP 3303sdw, MFP 3388 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing with TerraJet"
+      }
+    ]
+  },
+  {
+    "id": "sharp-toner-dx25ft-bpft20",
+    "status": "IN STOCK",
+    "series": "SHARP TONER SERIES",
+    "title": "Sharp DX-25FT / BP-FT20 Toner Cartridges",
+    "description": "Premium Sharp copiers toner collection including DX-25FT (Black/Cyan) and BP-FT20 (Magenta/Yellow/Cyan). Formulated for reliability, clear document scans, and rich coloring.",
+    "imageAsset": "assets/images/products/sharp_dx25ft_bpft20_toners.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Sharp DX-2500N / BP-20C20",
+    "spec2Label": "PRINT TYPE",
+    "spec2Value": "Multicolor (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.7",
+    "reviews": "(11)",
+    "highlights": [
+      {
+        "title": "Hybrid Support",
+        "description": "Compatible across compact workspace multifunction printers."
+      },
+      {
+        "title": "Sharp Text Lines",
+        "description": "Delivers distinct outlines for fonts and vector lines."
+      },
+      {
+        "title": "Durable Packing",
+        "description": "Engineered to resist environmental moisture changes."
+      }
+    ],
+    "specs": [
+      {
+        "label": "MODELS",
+        "value": "DX-25FT-BA, DX-25FT-CA, BP-FT20MB, BP-FT20YB, BP-FT20CB"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Sharp DX-2000U, DX-2500N, BP-20C20, BP-20C25"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "sharp-toner-mx61ft",
+    "status": "IN STOCK",
+    "series": "SHARP TONER SERIES",
+    "title": "Sharp MX-61FT Toner Cartridges (CMY Set)",
+    "description": "Premium Sharp MX-61FT Cyan, Yellow, and Magenta toner cartridges. Engineered for high-speed color copiers, producing vibrant color pages and professional document output.",
+    "imageAsset": "assets/images/products/sharp_mx61ft_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Sharp MX-3050 / 3550 / 4050 / 5050 / 6050",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Color: ~24,000 pages each",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(15)",
+    "highlights": [
+      {
+        "title": "High Speed Fusion",
+        "description": "Calibrated for high-velocity office copiers."
+      },
+      {
+        "title": "Vivid Image Quality",
+        "description": "Accurate cyan, yellow, and magenta color balance."
+      },
+      {
+        "title": "Eco-Friendly Cartridge",
+        "description": "Engineered to promote lower melting points and power efficiency."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Cyan (MX-61FT-CB), Yellow (MX-61FT-YB), Magenta (MX-61FT-MB)"
+      },
+      {
+        "label": "MODEL",
+        "value": "MX-61FT Series"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Sharp MX-3050N, MX-3550N, MX-4050N, MX-3070N, MX-3570N, MX-4070N, MX-5070N, MX-6070N"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-npg46-gpr31-cexv29",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic NPG-46 / GPR-31 / C-EXV29 Toner Set (CMYK)",
+    "description": "Smart and intelligent quality toner set (Black, Cyan, Magenta, Yellow) for Canon imageRUNNER ADVANCE C5030/5035/5235/5240 series. Engineered for high-volume commercial environments demanding precise, consistent color printing.",
+    "imageAsset": "assets/images/products/saimatic_npg46_gpr31_cexv29.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon imageRUNNER ADVANCE",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(26)",
+    "highlights": [
+      {
+        "title": "Smart & Intelligent Quality",
+        "description": "Precision-engineered for Canon imageRUNNER ADVANCE machines with intelligent quality control."
+      },
+      {
+        "title": "Full CMYK Color Set",
+        "description": "Complete Black, Cyan, Magenta, and Yellow toner for full-color commercial print coverage."
+      },
+      {
+        "title": "High-Volume Commercial Output",
+        "description": "Optimized for demanding office copier environments that require reliable, large-scale printing."
+      },
+      {
+        "title": "Precise Color Reproduction",
+        "description": "Achieves accurate, vibrant color output across extended, high-duty-cycle print jobs."
+      },
+      {
+        "title": "100% Quality Tested",
+        "description": "Fully tested for compatibility with Canon imageRUNNER ADVANCE C5030/5035/5235/5240 models."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "NPG-46 / GPR-31 / C-EXV29"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER ADVANCE C5030, C5035, C5235, C5240"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser / Copier Toner"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – designed for large-volume commercial copy/print jobs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "Smart & Intelligent Quality Tested"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Corporate office copiers, commercial print centers, high-volume color reproduction"
+      }
+    ]
+  },
+  {
+    "id": "canon-toner-cexv49",
+    "status": "IN STOCK",
+    "series": "CANON TONER SERIES",
+    "title": "Canon C-EXV 49 Toner Cartridge Set (CMYK)",
+    "description": "Genuine Canon C-EXV 49 toner cartridges (Black, Cyan, Magenta, Yellow) for imageRUNNER ADVANCE copiers. Formulated for high-yield productivity, professional-grade prints, and smooth workflow compatibility.",
+    "imageAsset": "assets/images/products/canon_cexv49_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon imageRUNNER ADVANCE",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~36,000 | CMY: ~19,000 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(33)",
+    "highlights": [
+      {
+        "title": "Ultra High-Yield",
+        "description": "Designed for demanding high-volume enterprise printing."
+      },
+      {
+        "title": "Superb Gradient Grayscale",
+        "description": "Enhanced toner distribution for deep blacks and smooth shades."
+      },
+      {
+        "title": "Clean Environment Safe",
+        "description": "Low dust emissions and simple replacement."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "C-EXV 49 (8524B002AA, 8525B002AA, 8526B002AA, 8527B002AA)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER ADVANCE C3320i, C3325i, C3330i, C3520i, C3525i, C3530i, C3720i, C3725i, C3730i, C3822i, C3826i, C3830i, C3835i"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-203a",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic 203A Premium Grade Toner Cartridges (CMYK Set)",
+    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for HP Color LaserJet Pro printers. Featuring the latest toner technology for accurate color reproduction, high print volume, and consistent reliability.",
+    "imageAsset": "assets/images/products/saimatic_203a.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Color LaserJet Pro",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(17)",
+    "highlights": [
+      {
+        "title": "Full CMYK Color Set",
+        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete HP color printer coverage."
+      },
+      {
+        "title": "Latest Toner Technology",
+        "description": "Advanced toner chemistry delivers precise color accuracy and consistency across all print runs."
+      },
+      {
+        "title": "Durable & Reliable",
+        "description": "Designed for high-volume color printing without quality degradation over time."
+      },
+      {
+        "title": "Superior Print Performance",
+        "description": "Vivid colors and sharp text for professional business documents and color presentations."
+      },
+      {
+        "title": "Environment Friendly",
+        "description": "Eco-responsible design with reduced environmental footprint during manufacturing."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "203A / CF540A/CF541A/CF542A/CF543A"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with HP Color LaserJet Pro M254, MFP M281 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "Approx. 1,400 pages (Black) / 1,300 pages (Color) at 5% coverage"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Office color documents, professional presentations, marketing prints"
       }
     ]
   },
@@ -1577,144 +1947,638 @@
     ]
   },
   {
-    "id": "msi-laptop-gaming",
-    "status": "AVAILABLE",
-    "series": "MSI GAMING SERIES",
-    "title": "MSI High-Performance Laptop",
-    "description": "Equipped with latest processors and NVIDIA RTX graphics for heavy gaming and creative workloads.",
-    "imageAsset": "assets/images/products/msi_laptop.png",
-    "spec1Label": "PROCESSOR",
-    "spec1Value": "Intel Core i7/i9 | Ryzen 7/9",
-    "spec2Label": "GRAPHICS",
-    "spec2Value": "NVIDIA GeForce RTX",
-    "category": "Laptops",
+    "id": "hp-toner-230a-cyan",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 230A Cyan LaserJet Toner Cartridge (W2301A)",
+    "description": "Original HP 230A Cyan toner cartridge (W2301A) featuring TerraJet technology. Provides vivid, rich cyan color gradients designed specifically for HP Color LaserJet Pro series.",
+    "imageAsset": "assets/images/products/hp_230a_cyan.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro 4203 / MFP 4303",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Cyan: ~1,800 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(19)",
     "highlights": [
       {
-        "title": "High-Performance Gaming & Creative Power",
-        "description": "Equipped with latest Intel Core / AMD Ryzen processors and NVIDIA RTX graphics."
+        "title": "Vibrant Business Graphics",
+        "description": "True-to-life color reproduction for high-impact brochures and marketing decks."
       },
       {
-        "title": "Advanced Cooling Technology",
-        "description": "Efficient thermal systems ensure stable performance during gaming and multitasking."
+        "title": "JetIntelligence Integration",
+        "description": "Optimizes cartridge components to work seamlessly at higher print speeds."
       },
       {
-        "title": "High-End Graphics & Display",
-        "description": "Designed for gamers and creators with powerful GPUs and immersive displays."
-      },
-      {
-        "title": "Custom Performance Software",
-        "description": "Tools like MSI Center help optimize performance, cooling, and system settings."
-      },
-      {
-        "title": "Premium Build & Design",
-        "description": "Available in gaming, business, and thin-light series with stylish designs."
+        "title": "Eco-Responsible",
+        "description": "Formulated to require lower fusing temperatures, saving power."
       }
     ],
     "specs": [
       {
-        "label": "PROCESSOR",
-        "value": "Intel Core i7 / i9 or AMD Ryzen 7 / 9"
+        "label": "COLOR",
+        "value": "Cyan"
       },
       {
-        "label": "GRAPHICS",
-        "value": "NVIDIA GeForce RTX 30/40/50 series"
+        "label": "MODEL",
+        "value": "W2301A (HP 230A)"
       },
       {
-        "label": "DISPLAY",
-        "value": "13\" to 18\" FHD / QHD / OLED panels"
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro 4203dn, 4203dw, MFP 4303fdn, MFP 4303fdw, MFP 4303dw"
       },
       {
-        "label": "MEMORY (RAM)",
-        "value": "Up to 64GB DDR5"
-      },
-      {
-        "label": "STORAGE",
-        "value": "Up to 2TB SSD"
-      },
-      {
-        "label": "CONNECTIVITY",
-        "value": "Wi-Fi 6/7, Bluetooth, USB-C, HDMI"
-      },
-      {
-        "label": "COOLING SYSTEM",
-        "value": "Advanced multi-fan thermal design"
-      },
-      {
-        "label": "IDEAL USE",
-        "value": "Gaming, video editing, 3D design, high-performance tasks"
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
       }
     ]
   },
   {
-    "id": "apple-macbook-silicon",
+    "id": "saimatic-toner-tn2500",
     "status": "IN STOCK",
-    "series": "APPLE MACBOOK",
-    "title": "Apple MacBook (M-Series)",
-    "description": "Powered by Apple Silicon (M1/M2/M3) for fast and efficient performance with all-day battery life.",
-    "imageAsset": "assets/images/products/macbook.png",
-    "spec1Label": "PROCESSOR",
-    "spec1Value": "Apple Silicon M-Series",
-    "spec2Label": "BATTERY LIFE",
-    "spec2Value": "Up to 20 hours",
-    "category": "Laptops",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic TN-2500 Premium Grade Toner Cartridge (Black)",
+    "description": "High-yield monochrome laser toner cartridge for Brother printers. Features the latest toner technology for crisp, deep black text and reliable high-volume performance. Compatible with Brother laser printer series supporting the TN-2500 model.",
+    "imageAsset": "assets/images/products/saimatic_tn2500_v2.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Brother Laser Printers",
+    "spec2Label": "PRINT TYPE",
+    "spec2Value": "Monochrome (Black)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(42)",
     "highlights": [
       {
-        "title": "Apple Silicon Performance",
-        "description": "Powered by M-series chips (M1, M2, M3) for fast and efficient performance."
+        "title": "Latest Toner Technology",
+        "description": "Advanced toner formulas ensure sharp, smudge-free monochrome prints on every page."
       },
       {
-        "title": "Premium Build Quality",
-        "description": "Sleek aluminum design with lightweight and durable construction."
+        "title": "High Print Volume & Yield",
+        "description": "Optimized for high-yield printing to reduce cost per page and frequency of replacements."
       },
       {
-        "title": "Retina Display Technology",
-        "description": "High-resolution displays with accurate colors and brightness."
+        "title": "100% Quality Tested",
+        "description": "Each cartridge undergoes rigorous quality control for guaranteed compatibility and performance."
       },
       {
-        "title": "Long Battery Life",
-        "description": "Optimized hardware and software deliver all-day battery performance."
+        "title": "Durable & Reliable",
+        "description": "Built for consistent daily use in office environments with minimal maintenance."
       },
       {
-        "title": "macOS Ecosystem Integration",
-        "description": "Seamless experience with iPhone, iPad, and other Apple devices."
+        "title": "Superior Print Performance",
+        "description": "Delivers professional-grade black print quality for documents, reports, and high-volume office output."
       }
     ],
     "specs": [
       {
-        "label": "PROCESSOR",
-        "value": "Apple M1 / M2 / M3 chip"
+        "label": "CARTRIDGE COLOR",
+        "value": "Black (Monochrome)"
       },
       {
-        "label": "GRAPHICS",
-        "value": "Integrated Apple GPU"
+        "label": "MODEL",
+        "value": "TN-2500 Premium Grade"
       },
       {
-        "label": "DISPLAY",
-        "value": "13\"–16\" Retina / Liquid Retina display"
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Brother laser printers supporting TN-2500"
       },
       {
-        "label": "MEMORY (RAM)",
-        "value": "8GB to 32GB unified memory"
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser Printing"
       },
       {
-        "label": "STORAGE",
-        "value": "256GB to 2TB SSD"
+        "label": "PAGE YIELD",
+        "value": "High Yield – approx. 1,200+ pages at 5% coverage"
       },
       {
-        "label": "CONNECTIVITY",
-        "value": "Wi-Fi 6, Bluetooth, Thunderbolt ports"
-      },
-      {
-        "label": "BATTERY LIFE",
-        "value": "Up to 15–20 hours"
-      },
-      {
-        "label": "OPERATING SYSTEM",
-        "value": "macOS"
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
       },
       {
         "label": "IDEAL USE",
-        "value": "Students, professionals, coding, video editing, everyday productivity"
+        "value": "Corporate offices, high-volume document printing, professional environments"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-415a-black",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 415A Black LaserJet Toner Cartridge (W2030A)",
+    "description": "Original HP 415A Black toner cartridge (W2030A) with JetIntelligence. Delivers sharp text and professional black graphics for high-demand office printing.",
+    "imageAsset": "assets/images/products/hp_415a_black.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro M454 / MFP M479",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~2,400 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(22)",
+    "highlights": [
+      {
+        "title": "Deep Monochrome text",
+        "description": "Creates sharp details and clear readability on everyday business paper."
+      },
+      {
+        "title": "JetIntelligence Optimization",
+        "description": "Maximizes page yield and ensures the print system operates at peak capacity."
+      },
+      {
+        "title": "Genuine HP Protection",
+        "description": "Prevents damage to your printer's drum or transfer belt."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Black"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2030A (HP 415A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro M454 series, HP Color LaserJet Pro MFP M479 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-069",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic 069 Premium Grade Toner Cartridges (CMYK Set)",
+    "description": "Premium full-color laser toner cartridge set (Black, Cyan, Magenta, Yellow) for Canon color laser printers. Engineered with the latest toner technology for vibrant color accuracy, durable print performance, and environmental responsibility.",
+    "imageAsset": "assets/images/products/saimatic_069.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon Color Printers",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(14)",
+    "highlights": [
+      {
+        "title": "Full CMYK Color Set",
+        "description": "Includes Black, Cyan, Magenta, and Yellow cartridges for complete professional color printing."
+      },
+      {
+        "title": "Latest Toner Technology",
+        "description": "Advanced toner chemistry delivers bright, accurate colors with exceptional consistency."
+      },
+      {
+        "title": "Durable & Reliable",
+        "description": "Designed for high-volume print workloads without loss of quality or performance."
+      },
+      {
+        "title": "Superior Print Performance",
+        "description": "Produces crisp text and vivid images ideal for professional business documents."
+      },
+      {
+        "title": "Environment Friendly",
+        "description": "Manufactured with sustainability in mind to minimize ecological impact."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "069 / CRG-069 Premium Grade"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Compatible with Canon color laser printers supporting CRG-069 / Cartridge 069"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser Printing"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – CMYK set for extended color print runs"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "100% Quality Tested & Certified"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Office color printing, brochures, presentations, marketing materials"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-136a",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 136A Black LaserJet Toner Cartridge (W1360A)",
+    "description": "Original HP 136A Black toner cartridge (W1360A) featuring JetIntelligence. Engineered for monochrome LaserJet Pro printers, delivering crisp text and deep black accents.",
+    "imageAsset": "assets/images/products/hp_136a_black.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet M211 / MFP M236",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~1,150 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(16)",
+    "highlights": [
+      {
+        "title": "JetIntelligence Formula",
+        "description": "Provides fast start-up times and consistent output quality page after page."
+      },
+      {
+        "title": "Compact Office Choice",
+        "description": "Ideal for small business spaces or home offices requiring quick, reliable documents."
+      },
+      {
+        "title": "Smart Print Alerts",
+        "description": "Warns you when toner levels are low so you can replace the cartridge without delay."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Black"
+      },
+      {
+        "label": "MODEL",
+        "value": "W1360A (HP 136A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet M211d, M211dw, MFP M236d, MFP M236dw, MFP M236sdw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Monochrome Laser"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-415a-cyan",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 415A Cyan LaserJet Toner Cartridge (W2031A)",
+    "description": "Original HP 415A Cyan toner cartridge (W2031A) featuring JetIntelligence. Calibrated for professional-grade color prints with high-speed performance.",
+    "imageAsset": "assets/images/products/hp_415a_cyan.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro M454 / MFP M479",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Cyan: ~2,100 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(15)",
+    "highlights": [
+      {
+        "title": "Vivid Color Accents",
+        "description": "Optimized cyan dyes ensure spectacular graphics and rich image contrast."
+      },
+      {
+        "title": "Anti-Fraud Verification",
+        "description": "Protects against non-genuine alternatives and keeps print quality stable."
+      },
+      {
+        "title": "Low Melt Temperature",
+        "description": "Fuses instantly to pages, enabling rapid copy speeds."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Cyan"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2031A (HP 415A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro M454 series, HP Color LaserJet Pro MFP M479 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-415a-magenta",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 415A Magenta LaserJet Toner Cartridge (W2033A)",
+    "description": "Original HP 415A Magenta toner cartridge (W2033A) with JetIntelligence. Optimized for high-fidelity printing, creating stunning color documentation.",
+    "imageAsset": "assets/images/products/hp_415a_magenta.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro M454 / MFP M479",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Magenta: ~2,100 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(16)",
+    "highlights": [
+      {
+        "title": "Professional Magenta",
+        "description": "Vivid magenta tone formulated to represent marketing outputs correctly."
+      },
+      {
+        "title": "Anti-Fraud Security",
+        "description": "Confirms cartridge origin to maintain consistent printer performance."
+      },
+      {
+        "title": "High Durability",
+        "description": "Engineered to deliver colors that are resistant to fading and handling."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Magenta"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2033A (HP 415A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro M454 series, HP Color LaserJet Pro MFP M479 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "canon-toner-cexv64",
+    "status": "IN STOCK",
+    "series": "CANON TONER SERIES",
+    "title": "Canon C-EXV 64 Toner Cartridge Set (CMYK)",
+    "description": "Original Canon C-EXV 64 toner cartridges set (Black, Cyan, Magenta, Yellow) designed for next-generation imageRUNNER ADVANCE DX copiers. Optimized for peak performance and vivid corporate print outputs.",
+    "imageAsset": "assets/images/products/canon_cexv64_toner.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon imageRUNNER DX C3900 series",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~38,000 | CMY: ~25,500 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(8)",
+    "highlights": [
+      {
+        "title": "Next-Gen DX Formulation",
+        "description": "Fine particle size toner for rich details."
+      },
+      {
+        "title": "Extremely Long Life",
+        "description": "Reduces cartridge change intervals and maintenance downtime."
+      },
+      {
+        "title": "Crisp Output",
+        "description": "Resistant to moisture and smudges for professional documentation."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "C-EXV 64 Toner Series"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER ADVANCE DX C3922i, C3926i, C3930i, C3935i"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Copier Toner"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-207a-black",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 207A Black LaserJet Toner Cartridge (W2210A)",
+    "description": "Original HP 207A Black toner cartridge (W2210A) with JetIntelligence. Delivers professional-grade text documents and high-speed laser output.",
+    "imageAsset": "assets/images/products/hp_207a_black.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP Color LaserJet Pro M255 / M282 / M283",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~1,350 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.8",
+    "reviews": "(23)",
+    "highlights": [
+      {
+        "title": "Crisp Laser Text",
+        "description": "Optimized black toner formulation produces sharp lines for readable text."
+      },
+      {
+        "title": "Smart JetIntelligence",
+        "description": "Balances printing speed with output quality, while tracking toner use."
+      },
+      {
+        "title": "Perfect Calibration",
+        "description": "Engineered for small workgroup laser systems to avoid drum damage."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Black"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2210A (HP 207A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP Color LaserJet Pro M255dw, M255nw, MFP M282nw, MFP M283fdn, MFP M283fdw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-230a-black",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 230A Black LaserJet Toner Cartridge (W2300A)",
+    "description": "Original HP 230A Black toner cartridge (W2300A) with TerraJet technology. Designed to provide professional quality prints at high speeds with smart print yield optimizations.",
+    "imageAsset": "assets/images/products/hp_230a_black.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro 4203 / MFP 4303",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~2,000 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "5.0",
+    "reviews": "(28)",
+    "highlights": [
+      {
+        "title": "Next-Gen TerraJet Toner",
+        "description": "Engineered for high-speed printing without compromising text clarity or page quality."
+      },
+      {
+        "title": "Intelligent Tracking",
+        "description": "Keep accurate track of remaining toner levels with smart sensor integration."
+      },
+      {
+        "title": "Consistent Output",
+        "description": "Maintains uniform powder density throughout the entire life of the cartridge."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLOR",
+        "value": "Black"
+      },
+      {
+        "label": "MODEL",
+        "value": "W2300A (HP 230A)"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro 4203dn, 4203dw, MFP 4303fdn, MFP 4303fdw, MFP 4303dw"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "hp-toner-415a",
+    "status": "IN STOCK",
+    "series": "HP TONER SERIES",
+    "title": "HP 415A LaserJet Toner Cartridges (CMYK Set)",
+    "description": "Original HP LaserJet 415A toner cartridges (W2030A Black, W2031A Cyan, W2032A Yellow, W2033A Magenta) with JetIntelligence. Delivers vibrant color documentation and sharp text optimized for HP LaserJet Pro printers.",
+    "imageAsset": "assets/images/products/hp_415a_set.jpeg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "HP LaserJet Pro M454 / MFP M479",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "Black: ~2,400 | CMY: ~2,100 pages",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(18)",
+    "highlights": [
+      {
+        "title": "Latest JetIntelligence",
+        "description": "Optimized performance and page maximizer technology."
+      },
+      {
+        "title": "Vibrant Professional Prints",
+        "description": "High-quality color prints for marketing materials and documents."
+      },
+      {
+        "title": "Anti-Fraud Technology",
+        "description": "Helps manage costs and ensure genuine HP quality."
+      }
+    ],
+    "specs": [
+      {
+        "label": "COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODELS",
+        "value": "W2030A, W2031A, W2032A, W2033A"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "HP LaserJet Pro M454 series, HP Color LaserJet Pro MFP M479 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Laser Printing"
+      }
+    ]
+  },
+  {
+    "id": "saimatic-toner-npg45-gpr30-cexv28",
+    "status": "IN STOCK",
+    "series": "SAIMATIC TONER SERIES",
+    "title": "Saimatic NPG-45 / GPR-30 / C-EXV28 Toner Set (CMYK)",
+    "description": "Smart and intelligent quality toner set (Black, Cyan, Magenta, Yellow) for Canon imageRUNNER ADVANCE series copiers and printers. Designed for high-volume office environments requiring consistent, professional-grade color output.",
+    "imageAsset": "assets/images/products/saimatic_npg45_gpr30_cexv28.jpg",
+    "spec1Label": "COMPATIBILITY",
+    "spec1Value": "Canon imageRUNNER",
+    "spec2Label": "PAGE YIELD",
+    "spec2Value": "High Yield (CMYK)",
+    "category": "Toners",
+    "price": "Contact for Price",
+    "rating": "4.9",
+    "reviews": "(38)",
+    "highlights": [
+      {
+        "title": "Smart & Intelligent Quality",
+        "description": "Precision-engineered toner for Canon imageRUNNER ADVANCE series with intelligent chip calibration."
+      },
+      {
+        "title": "Full CMYK Color Set",
+        "description": "Complete Black, Cyan, Magenta, and Yellow toner set for full-color reproduction on Canon copiers."
+      },
+      {
+        "title": "High-Volume Office Performance",
+        "description": "Built for the demanding output requirements of large office and commercial print environments."
+      },
+      {
+        "title": "Consistent Color Accuracy",
+        "description": "Delivers stable, uniform color across extended print runs for professional results."
+      },
+      {
+        "title": "100% Quality Tested",
+        "description": "Each toner is tested for compatibility with Canon imageRUNNER machines for guaranteed performance."
+      }
+    ],
+    "specs": [
+      {
+        "label": "CARTRIDGE COLORS",
+        "value": "Black, Cyan, Magenta, Yellow (CMYK Set)"
+      },
+      {
+        "label": "MODEL",
+        "value": "NPG-45 / GPR-30 / C-EXV28"
+      },
+      {
+        "label": "COMPATIBILITY",
+        "value": "Canon imageRUNNER ADVANCE C5030, C5035, C5235, C5240 series"
+      },
+      {
+        "label": "PRINT TECHNOLOGY",
+        "value": "Color Laser / Copier Toner"
+      },
+      {
+        "label": "PAGE YIELD",
+        "value": "High Yield – designed for large-format office volume printing"
+      },
+      {
+        "label": "QUALITY ASSURANCE",
+        "value": "Smart & Intelligent Quality Tested"
+      },
+      {
+        "label": "IDEAL USE",
+        "value": "Large office copiers, corporate print centers, high-volume color reproduction"
       }
     ]
   }
