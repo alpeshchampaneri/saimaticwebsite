@@ -1,0 +1,22 @@
+[
+  {"id": "toner-cartridges", "title": "Toner Cartridges", "iconName": "color_lens", "colorHex": 4289415100, "order": 1},
+  {"id": "air-conditioners", "title": "Air Conditioners", "iconName": "ac_unit", "colorHex": 4282557941, "order": 2},
+  {"id": "air-water-coolers", "title": "Air & Water Coolers", "iconName": "water_drop", "colorHex": 4283417591, "order": 3},
+  {"id": "coffee-makers", "title": "Coffee Makers", "iconName": "coffee_maker", "colorHex": 4287458915, "order": 4},
+  {"id": "cooking-range", "title": "Cooking Range & Built-In", "iconName": "microwave", "colorHex": 4294930499, "order": 5},
+  {"id": "home-appliances", "title": "Home Appliances", "iconName": "blender", "colorHex": 4294625062, "order": 6},
+  {"id": "kitchen-hoods", "title": "Kitchen Hoods", "iconName": "air", "colorHex": 4280723114, "order": 7},
+  {"id": "led-tv", "title": "LED TV", "iconName": "tv", "colorHex": 4284922730, "order": 8},
+  {"id": "refrigerators-freezers", "title": "Refrigerators & Freezers", "iconName": "kitchen", "colorHex": 4280731354, "order": 9},
+  {"id": "washing-machines", "title": "Washing Machines", "iconName": "local_laundry_service", "colorHex": 4288465509, "order": 10},
+  {"id": "dishwashers", "title": "Dishwashers", "iconName": "wash", "colorHex": 4284247232, "order": 11},
+  {"id": "vacuum-cleaners", "title": "Vacuum Cleaners", "iconName": "cleaning_services", "colorHex": 4286087324, "order": 12},
+  {"id": "small-kitchen-appliances", "title": "Small Kitchen Appliances", "iconName": "soup_kitchen", "colorHex": 4294953512, "order": 13},
+  {"id": "personal-care", "title": "Personal Care", "iconName": "face_retouching_natural", "colorHex": 4293943954, "order": 14},
+  {"id": "mobile-tablet", "title": "Mobile & Tablet", "iconName": "smartphone", "colorHex": 4291720152, "order": 15},
+  {"id": "it-computing", "title": "IT & Computing", "iconName": "laptop_mac", "colorHex": 4284507531, "order": 16},
+  {"id": "audio-video", "title": "Audio & Video", "iconName": "speaker", "colorHex": 4286470082, "order": 17},
+  {"id": "gaming-consoles", "title": "Gaming Consoles", "iconName": "sports_esports", "colorHex": 4293874512, "order": 18},
+  {"id": "digital-cameras", "title": "Digital Cameras", "iconName": "camera_alt", "colorHex": 4283152044, "order": 19},
+  {"id": "smart-home-devices", "title": "Smart Home Devices", "iconName": "smart_toy", "colorHex": 4280923894, "order": 20}
+]
